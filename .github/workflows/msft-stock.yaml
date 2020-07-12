@@ -5,7 +5,7 @@ on:
     branches:
     - msft-stock
   schedule:
-  - cron: '5 * * * *'
+  - cron: '0 * * * *'
 
 jobs:
   generate:
