@@ -1,0 +1,59 @@
+name: MSFT Stock
+
+on:
+  push:
+    branches:
+    - msft-stock
+  schedule:
+  - cron: '5 * * * *'
+
+jobs:
+  generate:
+    name: Generate Stock Chart
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        ref: msft-stock
+    - uses: actions/setup-node@v1
+    - run: yarn --frozen-lockfile
+    - run: yarn test
+    - id: run
+      run: |
+        CHART="$(yarn --silent start)"
+        CHART="${CHART//'%'/'%25'}"
+        CHART="${CHART//$'\n'/'%0A'}"
+        CHART="${CHART//$'\r'/'%0D'}"
+        echo "::set-output name=chart::$CHART"
+    outputs:
+      chart: ${{ steps.run.outputs.chart }}
+
+  update:
+    needs: generate
+    name: Update README.md
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        ref: master
+    - run: |
+        cat <<'EOF' | tee README.md
+        ![MSFT Stock](https://github.com/Gerhut/Gerhut/workflows/MSFT%20Stock/badge.svg)
+
+        ```
+        ${{ needs.generate.outputs.chart }}
+        ```
+        EOF
+    - id: changed
+      run: git diff --exit-code
+      continue-on-error: true
+    - if: ${{ steps.changed.outcome == 'failure' }}
+      run: |
+        git add README.md
+        git config --local user.name "GitHub Action"
+        git config --local user.email action@github.com
+        git commit --message 'Update README.md'
+    - if: ${{ steps.changed.outcome == 'failure' }}
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ github.token }}
