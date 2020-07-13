@@ -1,4 +1,4 @@
-name: MSFT Stock
+name: Generate README.md
 
 on:
   push:
@@ -8,8 +8,8 @@ on:
   - cron: '0 * * * *'
 
 jobs:
-  generate:
-    name: Generate Stock Chart
+  msft-stock:
+    name: MSFT Stock
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
@@ -17,19 +17,16 @@ jobs:
         ref: msft-stock
     - uses: actions/setup-node@v1
     - run: yarn --frozen-lockfile
-    - run: yarn test
     - id: run
       run: |
-        CHART="$(yarn --silent start)"
-        CHART="${CHART//'%'/'%25'}"
-        CHART="${CHART//$'\n'/'%0A'}"
-        CHART="${CHART//$'\r'/'%0D'}"
-        echo "::set-output name=chart::$CHART"
+        printf '::set-output name=chart::'
+        yarn --silent start | npx encode-uri-component
     outputs:
       chart: ${{ steps.run.outputs.chart }}
 
   update:
-    needs: generate
+    needs:
+    - msft-stock
     name: Update README.md
     runs-on: ubuntu-latest
     steps:
@@ -38,10 +35,13 @@ jobs:
         ref: master
     - run: |
         cat <<'EOF' | tee README.md
-        ![MSFT Stock](https://github.com/Gerhut/Gerhut/workflows/MSFT%20Stock/badge.svg)
+        ![README](https://github.com/Gerhut/Gerhut/workflows/README/badge.svg)
+        ![visitors](https://visitor-badge.glitch.me/badge?page_id=Gerhut.Gerhut)
 
         ```
-        ${{ needs.generate.outputs.chart }}
+        # MSFT Stock #
+
+        ${{ needs.msft-stock.outputs.chart }}
         ```
         EOF
     - id: changed
