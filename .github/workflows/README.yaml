@@ -23,7 +23,11 @@ jobs:
     - id: run
       run: |
         printf '::set-output name=chart::'
-        yarn --silent start | npx encode-uri-component
+        CHART="$(yarn --silent start)"
+        CHART="${CHART//'%'/'%25'}"
+        CHART="${CHART//$'\n'/'%0A'}"
+        CHART="${CHART//$'\r'/'%0D'}"
+        echo $CHART
     outputs:
       chart: ${{ steps.run.outputs.chart }}
 
@@ -38,7 +42,7 @@ jobs:
         ref: master
     - run: |
         cat <<'EOF' | tee README.md
-        ![README](https://github.com/Gerhut/Gerhut/workflows/README/badge.svg)
+        ![Generate README.md](https://github.com/Gerhut/Gerhut/workflows/Generate%20README.md/badge.svg)
         ![visitors](https://visitor-badge.glitch.me/badge?page_id=Gerhut.Gerhut)
 
         ```
