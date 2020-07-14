@@ -1,4 +1,4 @@
-name: Generate README.md
+name: README.md
 
 on:
   push:
@@ -22,12 +22,11 @@ jobs:
     - run: yarn --frozen-lockfile
     - id: run
       run: |
-        printf '::set-output name=chart::'
         CHART="$(yarn --silent start)"
         CHART="${CHART//'%'/'%25'}"
         CHART="${CHART//$'\n'/'%0A'}"
         CHART="${CHART//$'\r'/'%0D'}"
-        echo $CHART
+        echo "::set-output name=chart::$CHART"
     outputs:
       chart: ${{ steps.run.outputs.chart }}
 
@@ -42,7 +41,7 @@ jobs:
         ref: master
     - run: |
         cat <<'EOF' | tee README.md
-        ![Generate README.md](https://github.com/Gerhut/Gerhut/workflows/Generate%20README.md/badge.svg)
+        ![README.md](https://github.com/Gerhut/Gerhut/workflows/README.md/badge.svg)
         ![visitors](https://visitor-badge.glitch.me/badge?page_id=Gerhut.Gerhut)
 
         ```
