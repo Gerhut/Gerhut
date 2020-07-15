@@ -1,5 +1,5 @@
 ![README.md](https://github.com/Gerhut/Gerhut/workflows/README.md/badge.svg)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Gerhut.Gerhut)
+[![HitCount](http://hits.dwyl.com/Gerhut/Gerhut.svg)](http://hits.dwyl.com/Gerhut/Gerhut)
 
 ```
 # MSFT Stock #
