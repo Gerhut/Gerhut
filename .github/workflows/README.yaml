@@ -42,7 +42,7 @@ jobs:
     - run: |
         cat <<'EOF' | tee README.md
         ![README.md](https://github.com/Gerhut/Gerhut/workflows/README.md/badge.svg)
-        [![HitCount](http://hits.dwyl.com/Gerhut/Gerhut.svg)](http://hits.dwyl.com/Gerhut/Gerhut)
+        ![visitors](https://visitors.vercel.app/Gerhut/Gerhut)
 
         ```
         # MSFT Stock #
