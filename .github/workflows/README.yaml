@@ -1,12 +1,6 @@
 name: README.md
 
 on:
-  push:
-    branches:
-    - master
-    - msft-stock
-    paths:
-    - '!README.md'
   schedule:
   - cron: '0 * * * *'
 
