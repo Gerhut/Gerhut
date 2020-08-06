@@ -16,13 +16,20 @@ async function main (alphaVantageAPIKey) {
   const data = await response.json()
   const meta = data['Meta Data']
   const series = data['Time Series (Daily)']
-  const prices = Object.keys(series).sort().map(function (time) {
+  const times = Object.keys(series).sort()
+  const prices = times.map(function (time) {
     const price = Number(series[time]['4. close'])
     return Number.isFinite(price) ? price : undefined
   })
 
   const chart = asciichart.plot(prices, { height: 20 })
-  return `${chart}\n\n> Last Refreshed: ${meta['3. Last Refreshed']}`
+  return `
+> ${times[0]} - ${times[times.length - 1]}
+
+${chart}
+
+> Last Refreshed: ${meta['3. Last Refreshed']}
+  `.trim()
 }
 
 if (require.main === module) {
