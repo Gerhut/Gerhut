@@ -1,38 +1,27 @@
 name: README.md
 
 on:
+  push:
+    branches:
+    - '!master'
   schedule:
   - cron: '0 * * * *'
 
 jobs:
   msft-stock:
-    name: MSFT Stock
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-      with:
-        ref: msft-stock
-    - uses: actions/setup-node@v1
-    - run: yarn --frozen-lockfile
-    - id: run
-      run: |
-        CHART="$(yarn --silent start)"
-        CHART="${CHART//'%'/'%25'}"
-        CHART="${CHART//$'\n'/'%0A'}"
-        CHART="${CHART//$'\r'/'%0D'}"
-        echo "::set-output name=chart::$CHART"
+    - id: msft-stock
+      uses: ./.github/actions/msft-stock
     outputs:
-      chart: ${{ steps.run.outputs.chart }}
+      chart: ${{ steps.msft-stock.outputs.chart }}
 
   update:
     needs:
     - msft-stock
-    name: Update README.md
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-      with:
-        ref: master
     - run: |
         cat <<'EOF' | tee README.md
         ![README.md](https://github.com/Gerhut/Gerhut/workflows/README.md/badge.svg)
@@ -44,16 +33,16 @@ jobs:
         ${{ needs.msft-stock.outputs.chart }}
         ```
         EOF
-    - id: changed
+    - id: diff
       run: git diff --exit-code
       continue-on-error: true
-    - if: ${{ steps.changed.outcome == 'failure' }}
+    - if: ${{ steps.diff.outcome == 'failure' }}
       run: |
         git add README.md
         git config --local user.name "GitHub Action"
         git config --local user.email action@github.com
         git commit --message 'Update README.md'
-    - if: ${{ steps.changed.outcome == 'failure' }}
+    - if: ${{ steps.diff.outcome == 'failure' }}
       uses: ad-m/github-push-action@master
       with:
         github_token: ${{ github.token }}
