@@ -2,8 +2,6 @@ name: README.md
 
 on:
   push:
-    branches:
-    - '!master'
   schedule:
   - cron: '0 * * * *'
 
@@ -43,7 +41,4 @@ jobs:
         git config --local user.name "GitHub Action"
         git config --local user.email action@github.com
         git commit --message 'Update README.md'
-    - if: ${{ steps.diff.outcome == 'failure' }}
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ github.token }}
+        git push

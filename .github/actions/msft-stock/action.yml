@@ -1,5 +1,0 @@
-name: MSFT Stock
-description: ASCII line chart of MSFT stock.
-runs:
-  using: docker
-  image: Dockerfile
