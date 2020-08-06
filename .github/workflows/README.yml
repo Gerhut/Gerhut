@@ -11,6 +11,7 @@ jobs:
   msft-stock:
     runs-on: ubuntu-latest
     steps:
+    - uses: actions/checkout@v2
     - id: msft-stock
       uses: ./.github/actions/msft-stock
     outputs:
