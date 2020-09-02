@@ -3,7 +3,7 @@
 
 ## Trending Pokemons in Ranking Battle
 
-![Trending Pokemons in Ranking Battle](./battle-data.png)
+![Trending Pokemons in Ranking Battle](https://github.com/Gerhut/Gerhut/raw/master/battle-data.png)
 
 ## MSFT Stock
 
