@@ -43,7 +43,7 @@ jobs:
 
         ## Trending Pokemons in Ranking Battle
 
-        ![Trending Pokemons in Ranking Battle](./battle-data.png)
+        ![Trending Pokemons in Ranking Battle](https://github.com/Gerhut/Gerhut/raw/master/battle-data.png)
 
         ## MSFT Stock
 
@@ -55,11 +55,11 @@ jobs:
 
         ${{ needs.github-stars.outputs.markdown }}
         EOF
-    # - id: diff
-    #   run: git diff --exit-code
-    #   continue-on-error: true
-    # - if: ${{ steps.diff.outcome == 'failure' }}
-    - run: |
+    - id: diff
+      run: git diff --exit-code
+      continue-on-error: true
+    - if: ${{ steps.diff.outcome == 'failure' }}
+      run: |
         git add README.md
         git add battle-data.png
         git config --local user.name "GitHub Action"
