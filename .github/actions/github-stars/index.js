@@ -1,13 +1,9 @@
 const core = require('@actions/core')
 const fetch = require('node-fetch')
 
-async function main (token) {
-  const url = new URL('/user/starred', 'https://api.github.com')
-  const response = await fetch(url.toString(), {
-    headers: {
-      Authorization: `Bearer ${token}`
-    }
-  })
+async function main (user) {
+  const url = new URL(`/users/${user}/starred`, 'https://api.github.com')
+  const response = await fetch(url.toString())
   if (!response.ok) {
     throw Error(`HTTP ${response.status}`)
   }
@@ -20,7 +16,7 @@ async function main (token) {
 }
 
 if (require.main === module) {
-  main(process.env.TOKEN).then(function (markdown) {
+  main(process.env.GITHUB_ACTOR).then(function (markdown) {
     console.log(markdown)
     core.setOutput('markdown', markdown)
     process.exit(0)
