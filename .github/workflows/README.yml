@@ -15,9 +15,19 @@ jobs:
     outputs:
       chart: ${{ steps.msft-stock.outputs.chart }}
 
+  github-stars:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - id: github-stars
+      uses: ./.github/actions/github-stars
+    outputs:
+      markdown: ${{ steps.github-stars.outputs.markdown }}
+
   update:
     needs:
     - msft-stock
+    - github-stars
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
@@ -31,6 +41,10 @@ jobs:
 
         ${{ needs.msft-stock.outputs.chart }}
         ```
+
+        ### Recently Starred Repos
+
+        ${{ needs.github-stars.outputs.markdown }}
         EOF
     - id: diff
       run: git diff --exit-code
