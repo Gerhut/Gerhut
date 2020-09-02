@@ -1,9 +1,13 @@
 ![README.md](https://github.com/Gerhut/Gerhut/workflows/README.md/badge.svg)
 ![visitors](https://visitors.vercel.app/Gerhut/Gerhut?token=8cf69d1f6813d272ef062726b6070c9be4ff72038cfe5a7ded7384a8da65d866)
 
-```
-# MSFT Stock #
+## Trending Pokemons in Ranking Battle
 
+![Trending Pokemons in Ranking Battle](./battle-data.png)
+
+## MSFT Stock
+
+```
 > 2020-04-13 - 2020-09-01
 
      228.91 ┤                                                                                                ╭╮╭ 
@@ -31,7 +35,7 @@
 > Last Refreshed: 2020-09-01
 ```
 
-### Recently Starred Repos
+## Recently Starred Repos
 
 - [xialvjun/ts-sql-plugin](https://github.com/xialvjun/ts-sql-plugin)  
   TypeScript Language Service Plugin for SQL with a tagged template strings SQL builder.
