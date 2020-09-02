@@ -1,0 +1,17 @@
+{
+  "main": "index.js",
+  "scripts": {
+    "start": "node --require dotenv/config .",
+    "test": "standard"
+  },
+  "private": true,
+  "dependencies": {
+    "@actions/core": "^1.2.4",
+    "dotenv": "^8.2.0",
+    "jimp": "^0.16.1",
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {
+    "standard": "^14.3.4"
+  }
+}

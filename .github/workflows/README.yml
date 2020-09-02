@@ -33,18 +33,25 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
+    - uses: ./.github/actions/battle-data
+      env:
+        OUTPUT: ${{ github.workspace }}/battle-data.png
     - run: |
         cat <<'EOF' | tee README.md
         ![README.md](https://github.com/Gerhut/Gerhut/workflows/README.md/badge.svg)
         ![visitors](https://visitors.vercel.app/Gerhut/Gerhut?token=8cf69d1f6813d272ef062726b6070c9be4ff72038cfe5a7ded7384a8da65d866)
 
-        ```
-        # MSFT Stock #
+        ## Trending Pokemons in Ranking Battle
 
+        ![Trending Pokemons in Ranking Battle](./battle-data.png)
+
+        ## MSFT Stock
+
+        ```
         ${{ needs.msft-stock.outputs.chart }}
         ```
 
-        ### Recently Starred Repos
+        ## Recently Starred Repos
 
         ${{ needs.github-stars.outputs.markdown }}
         EOF
