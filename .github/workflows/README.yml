@@ -63,5 +63,5 @@ jobs:
         git add .
         git config --local user.name "GitHub Action"
         git config --local user.email action@github.com
-        git commit --message 'Update README.md'
+        git commit --message 'Update'
         git push
