@@ -8,35 +8,37 @@
 ## MSFT Stock
 
 ```
-> 2020-04-15 - 2020-09-03
+> 2020-04-14 - 2020-09-02
 
-     231.65 ┤                                                                                                 ╭╮ 
-     228.46 ┤                                                                                              ╭╮ ││ 
-     225.27 ┤                                                                                             ╭╯╰─╯│ 
-     222.08 ┤                                                                                             │    │ 
-     218.88 ┤                                                                                            ╭╯    │ 
-     215.69 ┤                                                                           ╭╮ ╭╮           ╭╯     ╰ 
-     212.50 ┤                                                         ╭──╮              │╰─╯╰╮       ╭──╯        
-     209.31 ┤                                                       ╭╮│  │    ╭╮╭╮      │    │ ╭╮ ╭──╯           
-     206.12 ┤                                                      ╭╯╰╯  ╰──╮ │╰╯│      │    ╰╮│╰─╯              
-     202.93 ┤                                                    ╭─╯        ╰─╯  │ ╭╮╭──╯     ╰╯                 
-     199.73 ┤                                              ╭─╮╭╮ │               ╰─╯╰╯                           
-     196.54 ┤                                      ╭╮    ╭╮│ ╰╯╰─╯                                               
-     193.35 ┤                                      ││  ╭─╯╰╯                                                     
-     190.16 ┤                                      ││  │                                                         
-     186.97 ┤                 ╭╮                ╭──╯│╭─╯                                                         
-     183.78 ┤               ╭─╯│   ╭──╮      ╭─╮│   ╰╯                                                           
-     180.59 ┤             ╭─╯  ╰╮╭─╯  ╰──────╯ ╰╯                                                                
-     177.39 ┤ ╭╮      ╭─╮╭╯     ╰╯                                                                               
-     174.20 ┤╭╯╰╮  ╭─╮│ ╰╯                                                                                       
-     171.01 ┼╯  │╭─╯ ││                                                                                          
-     167.82 ┤   ╰╯   ╰╯                                                                                          
+     231.65 ┤                                                                                                  ╭ 
+     228.46 ┤                                                                                               ╭╮ │ 
+     225.27 ┤                                                                                              ╭╯╰─╯ 
+     222.08 ┤                                                                                              │     
+     218.88 ┤                                                                                             ╭╯     
+     215.69 ┤                                                                            ╭╮ ╭╮           ╭╯      
+     212.50 ┤                                                          ╭──╮              │╰─╯╰╮       ╭──╯       
+     209.31 ┤                                                        ╭╮│  │    ╭╮╭╮      │    │ ╭╮ ╭──╯          
+     206.12 ┤                                                       ╭╯╰╯  ╰──╮ │╰╯│      │    ╰╮│╰─╯             
+     202.93 ┤                                                     ╭─╯        ╰─╯  │ ╭╮╭──╯     ╰╯                
+     199.73 ┤                                               ╭─╮╭╮ │               ╰─╯╰╯                          
+     196.54 ┤                                       ╭╮    ╭╮│ ╰╯╰─╯                                              
+     193.35 ┤                                       ││  ╭─╯╰╯                                                    
+     190.16 ┤                                       ││  │                                                        
+     186.97 ┤                  ╭╮                ╭──╯│╭─╯                                                        
+     183.78 ┤                ╭─╯│   ╭──╮      ╭─╮│   ╰╯                                                          
+     180.59 ┤              ╭─╯  ╰╮╭─╯  ╰──────╯ ╰╯                                                               
+     177.39 ┤  ╭╮      ╭─╮╭╯     ╰╯                                                                              
+     174.20 ┤ ╭╯╰╮  ╭─╮│ ╰╯                                                                                      
+     171.01 ┼─╯  │╭─╯ ││                                                                                         
+     167.82 ┤    ╰╯   ╰╯                                                                                         
 
-> Last Refreshed: 2020-09-03
+> Last Refreshed: 2020-09-02
 ```
 
 ## Recently Starred Repos
 
+- [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges)  
+  Collection of TypeScript type challenges with online judge
 - [xialvjun/ts-sql-plugin](https://github.com/xialvjun/ts-sql-plugin)  
   TypeScript Language Service Plugin for SQL with a tagged template strings SQL builder.
 - [jaredpalmer/razzle](https://github.com/jaredpalmer/razzle)  
@@ -95,5 +97,3 @@
   TC39 Proposal for multi-backtick templates with automatic margin stripping
 - [atomcorp/themes](https://github.com/atomcorp/themes)  
   Themes for Windows Terminal
-- [microsoft/GW-BASIC](https://github.com/microsoft/GW-BASIC)  
-  The original source code of Microsoft GW-BASIC from 1983
