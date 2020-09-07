@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle)  
+  Move and resize windows on macOS with keyboard shortcuts and snap areas
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges)  
   Collection of TypeScript type challenges with online judge
 - [xialvjun/ts-sql-plugin](https://github.com/xialvjun/ts-sql-plugin)  
@@ -91,5 +93,3 @@
   A lightweight Django project - because Django can be nearly as simple as a microframework
 - [mmkal/proposal-multi-backtick-templates](https://github.com/mmkal/proposal-multi-backtick-templates)  
   TC39 Proposal for multi-backtick templates with automatic margin stripping
-- [atomcorp/themes](https://github.com/atomcorp/themes)  
-  Themes for Windows Terminal
