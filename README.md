@@ -50,7 +50,7 @@
 - [antiops/tiktok-downloader-and-rehoster](https://github.com/antiops/tiktok-downloader-and-rehoster)  
   A simple webapp that allows users to easily download TikTok videos and share them as all videos are rehosted on our servers.
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey)  
-  ⚡ Automatically decrypt encryptions without a key, decode encodings, and crack hashes ⚡
+  ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [twbs/icons](https://github.com/twbs/icons)  
   Official open source SVG icon library for Bootstrap.
 - [hyperhype/hyperscript](https://github.com/hyperhype/hyperscript)  
