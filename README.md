@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [alexgorbatchev/eslint-import-resolver-typescript](https://github.com/alexgorbatchev/eslint-import-resolver-typescript)  
+  This plugin adds TypeScript support to `eslint-plugin-import`.
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle)  
   Move and resize windows on macOS with keyboard shortcuts and snap areas
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges)  
@@ -91,5 +93,3 @@
   Python dependency management and packaging made easy.
 - [rnevius/minimal-django](https://github.com/rnevius/minimal-django)  
   A lightweight Django project - because Django can be nearly as simple as a microframework
-- [mmkal/proposal-multi-backtick-templates](https://github.com/mmkal/proposal-multi-backtick-templates)  
-  TC39 Proposal for multi-backtick templates with automatic margin stripping
