@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [netdata/netdata](https://github.com/netdata/netdata)  
+  Real-time performance monitoring, done right! https://www.netdata.cloud
 - [alexgorbatchev/eslint-import-resolver-typescript](https://github.com/alexgorbatchev/eslint-import-resolver-typescript)  
   This plugin adds TypeScript support to `eslint-plugin-import`.
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle)  
@@ -91,5 +93,3 @@
   A new bootable USB solution.
 - [python-poetry/poetry](https://github.com/python-poetry/poetry)  
   Python dependency management and packaging made easy.
-- [rnevius/minimal-django](https://github.com/rnevius/minimal-django)  
-  A lightweight Django project - because Django can be nearly as simple as a microframework
