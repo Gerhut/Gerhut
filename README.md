@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui)  
+  ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [netdata/netdata](https://github.com/netdata/netdata)  
   Real-time performance monitoring, done right! https://www.netdata.cloud
 - [alexgorbatchev/eslint-import-resolver-typescript](https://github.com/alexgorbatchev/eslint-import-resolver-typescript)  
@@ -91,5 +93,3 @@
   VS Code Hex Editor
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy)  
   A new bootable USB solution.
-- [python-poetry/poetry](https://github.com/python-poetry/poetry)  
-  Python dependency management and packaging made easy.
