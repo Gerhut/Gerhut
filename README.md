@@ -33,6 +33,10 @@
 
 ## Recently Starred Repos
 
+- [davewasmer/devcert](https://github.com/davewasmer/devcert)  
+  Local HTTPS development made easy
+- [zspecza/common-tags](https://github.com/zspecza/common-tags)  
+  🔖 Useful template literal tags for dealing with strings in ES2015+
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui)  
   ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [netdata/netdata](https://github.com/netdata/netdata)  
@@ -89,7 +93,3 @@
   A pure Unix shell script implementing ACME client protocol
 - [foambubble/foam](https://github.com/foambubble/foam)  
   A personal knowledge management and sharing system for VSCode
-- [microsoft/vscode-hexeditor](https://github.com/microsoft/vscode-hexeditor)  
-  VS Code Hex Editor
-- [ventoy/Ventoy](https://github.com/ventoy/Ventoy)  
-  A new bootable USB solution.
