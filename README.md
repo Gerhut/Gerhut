@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [lukeed/trouter](https://github.com/lukeed/trouter)  
+  :fish: A fast, small-but-mighty, familiar fish...errr, router*
 - [davewasmer/devcert](https://github.com/davewasmer/devcert)  
   Local HTTPS development made easy
 - [zspecza/common-tags](https://github.com/zspecza/common-tags)  
@@ -91,5 +93,3 @@
   📢 A promisified url schemes creator for communication between webview & native
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh)  
   A pure Unix shell script implementing ACME client protocol
-- [foambubble/foam](https://github.com/foambubble/foam)  
-  A personal knowledge management and sharing system for VSCode
