@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [tser-project/tser](https://github.com/tser-project/tser)  
+  A TypeScript virtual machine.
 - [lukeed/trouter](https://github.com/lukeed/trouter)  
   :fish: A fast, small-but-mighty, familiar fish...errr, router*
 - [davewasmer/devcert](https://github.com/davewasmer/devcert)  
@@ -91,5 +93,3 @@
   URL encode & decode a string, right from your terminal.
 - [blade254353074/url-scheme](https://github.com/blade254353074/url-scheme)  
   📢 A promisified url schemes creator for communication between webview & native
-- [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh)  
-  A pure Unix shell script implementing ACME client protocol
