@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [modulz/stitches](https://github.com/modulz/stitches)  
+  The modern styling library.
 - [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel)  
   expose yourself
 - [tser-project/tser](https://github.com/tser-project/tser)  
@@ -91,5 +93,3 @@
   A tool set for CSS including fast detailed parser, walker, generator and lexer based on W3C specs and browser implementations
 - [jwenjian/visitor-badge](https://github.com/jwenjian/visitor-badge)  
   A badge generator service to count visitors of your markdown file.
-- [k4m4/url-cli](https://github.com/k4m4/url-cli)  
-  URL encode & decode a string, right from your terminal.
