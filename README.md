@@ -33,6 +33,10 @@
 
 ## Recently Starred Repos
 
+- [aklomp/base64](https://github.com/aklomp/base64)  
+  Fast Base64 stream encoder/decoder in C99, with SIMD acceleration
+- [lovell/64](https://github.com/lovell/64)  
+  High performance Base64 encoding and decoding for Node.js using SIMD (AVX2, AVX, SSE4.2, SSE4.1, SSSE3) acceleration
 - [modulz/stitches](https://github.com/modulz/stitches)  
   The modern styling library.
 - [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel)  
@@ -89,7 +93,3 @@
   null
 - [mozilla/source-map](https://github.com/mozilla/source-map)  
   Consume and generate source maps.
-- [csstree/csstree](https://github.com/csstree/csstree)  
-  A tool set for CSS including fast detailed parser, walker, generator and lexer based on W3C specs and browser implementations
-- [jwenjian/visitor-badge](https://github.com/jwenjian/visitor-badge)  
-  A badge generator service to count visitors of your markdown file.
