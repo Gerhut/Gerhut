@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [qawolf/playwright-video](https://github.com/qawolf/playwright-video)  
+  🎬 Save a video of a Playwright page
 - [aklomp/base64](https://github.com/aklomp/base64)  
   Fast Base64 stream encoder/decoder in C99, with SIMD acceleration
 - [lovell/64](https://github.com/lovell/64)  
@@ -91,5 +93,3 @@
   Django-environ allows you to utilize 12factor inspired environment variables to configure your Django application.
 - [shameonzju/shameonzju.github.io](https://github.com/shameonzju/shameonzju.github.io)  
   null
-- [mozilla/source-map](https://github.com/mozilla/source-map)  
-  Consume and generate source maps.
