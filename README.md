@@ -33,6 +33,10 @@
 
 ## Recently Starred Repos
 
+- [codemix/babel-plugin-closure-elimination](https://github.com/codemix/babel-plugin-closure-elimination)  
+  A Babel plugin which eliminates closures from your JavaScript wherever possible.
+- [MarchLiu/jaskell-j](https://github.com/MarchLiu/jaskell-j)  
+  A lite edition of jaskell, only parsec components, and use latest java language.
 - [qawolf/playwright-video](https://github.com/qawolf/playwright-video)  
   🎬 Save a video of a Playwright page
 - [aklomp/base64](https://github.com/aklomp/base64)  
@@ -89,7 +93,3 @@
   Guidance for changing the default branch name for GitHub repositories
 - [pinax/django-mailer](https://github.com/pinax/django-mailer)  
   mail queuing and management for the Django web framework
-- [joke2k/django-environ](https://github.com/joke2k/django-environ)  
-  Django-environ allows you to utilize 12factor inspired environment variables to configure your Django application.
-- [shameonzju/shameonzju.github.io](https://github.com/shameonzju/shameonzju.github.io)  
-  null
