@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [uncss/uncss](https://github.com/uncss/uncss)  
+  Remove unused styles from CSS
 - [DenyVeyten/postcss-deadcss](https://github.com/DenyVeyten/postcss-deadcss)  
   Plugin that helps to find dead CSS in stylesheets
 - [smartprocure/futil-js](https://github.com/smartprocure/futil-js)  
@@ -91,5 +93,3 @@
   An installation and dependency system for Python
 - [zackify/cli.rs](https://github.com/zackify/cli.rs)  
   use {yourproject}.cli.rs!
-- [github/renaming](https://github.com/github/renaming)  
-  Guidance for changing the default branch name for GitHub repositories
