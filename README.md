@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [DenyVeyten/postcss-deadcss](https://github.com/DenyVeyten/postcss-deadcss)  
+  Plugin that helps to find dead CSS in stylesheets
 - [smartprocure/futil-js](https://github.com/smartprocure/futil-js)  
   F(unctional) util(ities). Resistance is futile.
 - [codemix/babel-plugin-closure-elimination](https://github.com/codemix/babel-plugin-closure-elimination)  
@@ -91,5 +93,3 @@
   use {yourproject}.cli.rs!
 - [github/renaming](https://github.com/github/renaming)  
   Guidance for changing the default branch name for GitHub repositories
-- [pinax/django-mailer](https://github.com/pinax/django-mailer)  
-  mail queuing and management for the Django web framework
