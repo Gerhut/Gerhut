@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [smartprocure/futil-js](https://github.com/smartprocure/futil-js)  
+  F(unctional) util(ities). Resistance is futile.
 - [codemix/babel-plugin-closure-elimination](https://github.com/codemix/babel-plugin-closure-elimination)  
   A Babel plugin which eliminates closures from your JavaScript wherever possible.
 - [qawolf/playwright-video](https://github.com/qawolf/playwright-video)  
@@ -91,5 +93,3 @@
   Guidance for changing the default branch name for GitHub repositories
 - [pinax/django-mailer](https://github.com/pinax/django-mailer)  
   mail queuing and management for the Django web framework
-- [joke2k/django-environ](https://github.com/joke2k/django-environ)  
-  Django-environ allows you to utilize 12factor inspired environment variables to configure your Django application.
