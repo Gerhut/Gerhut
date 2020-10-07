@@ -82,7 +82,7 @@
 - [michelhe/rustboyadvance-ng](https://github.com/michelhe/rustboyadvance-ng)  
   RustBoyAdvance-NG is a Nintendo™ Game Boy Advance emulator and debugger, written in the rust programming language.
 - [antiops/tiktok-downloader-and-rehoster](https://github.com/antiops/tiktok-downloader-and-rehoster)  
-  A simple webapp (tiktoc.fail) that allows users to easily download TikTok videos and share them, all downloaded videos are copied and hosted from local servers instead of tiktok.com embeds.
+  A simple webapp (tik.fail) that allows users to easily download TikTok videos and share them, all downloaded videos are copied and hosted from local servers instead of tiktok.com embeds.
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey)  
   ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [twbs/icons](https://github.com/twbs/icons)  
