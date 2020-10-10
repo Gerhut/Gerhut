@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [Gerhut/of.dog](https://github.com/Gerhut/of.dog)  
+  Manage the DNS records of domain "of.dog".
 - [silverwind/dnsz](https://github.com/silverwind/dnsz)  
   Generic DNS zone file parser and stringifier
 - [uncss/uncss](https://github.com/uncss/uncss)  
@@ -91,5 +93,3 @@
   Create HyperText with JavaScript.
 - [juharris/switch-remoteplay](https://github.com/juharris/switch-remoteplay)  
   NOT AN OFFICIAL NINTENDO PRODUCT - Control your Switch remotely
-- [David-OConnor/pyflow](https://github.com/David-OConnor/pyflow)  
-  An installation and dependency system for Python
