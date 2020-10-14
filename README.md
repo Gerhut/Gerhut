@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [mmkal/handy-redis](https://github.com/mmkal/handy-redis)  
+  A wrapper around node_redis with Promise and TypeScript support.
 - [Gerhut/of.dog](https://github.com/Gerhut/of.dog)  
   Manage the DNS records of domain "of.dog".
 - [silverwind/dnsz](https://github.com/silverwind/dnsz)  
@@ -91,5 +93,3 @@
   Official open source SVG icon library for Bootstrap.
 - [hyperhype/hyperscript](https://github.com/hyperhype/hyperscript)  
   Create HyperText with JavaScript.
-- [juharris/switch-remoteplay](https://github.com/juharris/switch-remoteplay)  
-  NOT AN OFFICIAL NINTENDO PRODUCT - Control your Switch remotely
