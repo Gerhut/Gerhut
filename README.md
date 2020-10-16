@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [zesik/react-splitter-layout](https://github.com/zesik/react-splitter-layout)  
+  A simple split layout for React and modern browsers. https://zesik.com/react-splitter-layout
 - [mmkal/handy-redis](https://github.com/mmkal/handy-redis)  
   A wrapper around node_redis with Promise and TypeScript support.
 - [Gerhut/of.dog](https://github.com/Gerhut/of.dog)  
@@ -91,5 +93,3 @@
   ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [twbs/icons](https://github.com/twbs/icons)  
   Official open source SVG icon library for Bootstrap.
-- [hyperhype/hyperscript](https://github.com/hyperhype/hyperscript)  
-  Create HyperText with JavaScript.
