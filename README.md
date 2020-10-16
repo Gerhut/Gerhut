@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [aeagle/react-spaces](https://github.com/aeagle/react-spaces)  
+  React components that allow you to divide a page or container into nestable anchored, scrollable and resizable spaces.
 - [zesik/react-splitter-layout](https://github.com/zesik/react-splitter-layout)  
   A simple split layout for React and modern browsers. https://zesik.com/react-splitter-layout
 - [mmkal/handy-redis](https://github.com/mmkal/handy-redis)  
@@ -91,5 +93,3 @@
   A simple webapp (tik.fail) that allows users to easily download TikTok videos and share them, all downloaded videos are copied and hosted from local servers instead of tiktok.com embeds.
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey)  
   ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
-- [twbs/icons](https://github.com/twbs/icons)  
-  Official open source SVG icon library for Bootstrap.
