@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [bokuweb/react-sortable-pane](https://github.com/bokuweb/react-sortable-pane)  
+  :sparkles: A sortable and resizable pane component for React.
 - [mourner/bullshit.js](https://github.com/mourner/bullshit.js)  
   A bookmarklet for translating marketing speak into human-readable text. :poop:
 - [tjanczuk/iisnode](https://github.com/tjanczuk/iisnode)  
@@ -91,5 +93,3 @@
   Typescript style guide, linter, and formatter using StandardJS
 - [SergioBenitez/Rocket](https://github.com/SergioBenitez/Rocket)  
   A web framework for Rust.
-- [michelhe/rustboyadvance-ng](https://github.com/michelhe/rustboyadvance-ng)  
-  RustBoyAdvance-NG is a Nintendo™ Game Boy Advance emulator and debugger, written in the rust programming language.
