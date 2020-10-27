@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [phosphor-icons/phosphor-home](https://github.com/phosphor-icons/phosphor-home)  
+  A flexible icon family for everyone
 - [bokuweb/react-sortable-pane](https://github.com/bokuweb/react-sortable-pane)  
   :sparkles: A sortable and resizable pane component for React.
 - [mourner/bullshit.js](https://github.com/mourner/bullshit.js)  
@@ -91,5 +93,3 @@
   ✨ Create server-rendered universal JavaScript applications with no configuration
 - [toddbluhm/ts-standard](https://github.com/toddbluhm/ts-standard)  
   Typescript style guide, linter, and formatter using StandardJS
-- [SergioBenitez/Rocket](https://github.com/SergioBenitez/Rocket)  
-  A web framework for Rust.
