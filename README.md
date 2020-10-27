@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [Yoctol/bottender](https://github.com/Yoctol/bottender)  
+  ⚡️ A framework for building conversational user interfaces.
 - [phosphor-icons/phosphor-home](https://github.com/phosphor-icons/phosphor-home)  
   A flexible icon family for everyone
 - [bokuweb/react-sortable-pane](https://github.com/bokuweb/react-sortable-pane)  
@@ -91,5 +93,3 @@
   TypeScript Language Service Plugin for SQL with a tagged template strings SQL builder.
 - [jaredpalmer/razzle](https://github.com/jaredpalmer/razzle)  
   ✨ Create server-rendered universal JavaScript applications with no configuration
-- [toddbluhm/ts-standard](https://github.com/toddbluhm/ts-standard)  
-  Typescript style guide, linter, and formatter using StandardJS
