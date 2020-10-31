@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [cookpete/react-player](https://github.com/cookpete/react-player)  
+  A React component for playing a variety of URLs, including file paths, YouTube, Facebook, Twitch, SoundCloud, Streamable, Vimeo, Wistia and DailyMotion
 - [xiaq/halang](https://github.com/xiaq/halang)  
   见得多了
 - [Yoctol/bottender](https://github.com/Yoctol/bottender)  
@@ -91,5 +93,3 @@
   Move and resize windows on macOS with keyboard shortcuts and snap areas
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges)  
   Collection of TypeScript type challenges with online judge
-- [xialvjun/ts-sql-plugin](https://github.com/xialvjun/ts-sql-plugin)  
-  TypeScript Language Service Plugin for SQL with a tagged template strings SQL builder.
