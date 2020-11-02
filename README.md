@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [micromark/micromark](https://github.com/micromark/micromark)  
+  the smallest commonmark compliant markdown parser that exists; new basis for @unifiedjs (hundreds of projects w/ billions of downloads for dealing w/ content)
 - [cookpete/react-player](https://github.com/cookpete/react-player)  
   A React component for playing a variety of URLs, including file paths, YouTube, Facebook, Twitch, SoundCloud, Streamable, Vimeo, Wistia and DailyMotion
 - [xiaq/halang](https://github.com/xiaq/halang)  
@@ -91,5 +93,3 @@
   This plugin adds TypeScript support to `eslint-plugin-import`.
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle)  
   Move and resize windows on macOS with keyboard shortcuts and snap areas
-- [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges)  
-  Collection of TypeScript type challenges with online judge
