@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [qifeigit/learn](https://github.com/qifeigit/learn)  
+  null
 - [znck/vue-developer-experience](https://github.com/znck/vue-developer-experience)  
   A collection of tools for vue ecosystem.
 - [micromark/micromark](https://github.com/micromark/micromark)  
@@ -91,5 +93,3 @@
   ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [netdata/netdata](https://github.com/netdata/netdata)  
   Real-time performance monitoring, done right! https://www.netdata.cloud
-- [alexgorbatchev/eslint-import-resolver-typescript](https://github.com/alexgorbatchev/eslint-import-resolver-typescript)  
-  This plugin adds TypeScript support to `eslint-plugin-import`.
