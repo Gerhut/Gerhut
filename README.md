@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [znck/vue-developer-experience](https://github.com/znck/vue-developer-experience)  
+  A collection of tools for vue ecosystem.
 - [micromark/micromark](https://github.com/micromark/micromark)  
   the smallest commonmark compliant markdown parser that exists; new basis for @unifiedjs (hundreds of projects w/ billions of downloads for dealing w/ content)
 - [cookpete/react-player](https://github.com/cookpete/react-player)  
@@ -91,5 +93,3 @@
   Real-time performance monitoring, done right! https://www.netdata.cloud
 - [alexgorbatchev/eslint-import-resolver-typescript](https://github.com/alexgorbatchev/eslint-import-resolver-typescript)  
   This plugin adds TypeScript support to `eslint-plugin-import`.
-- [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle)  
-  Move and resize windows on macOS with keyboard shortcuts and snap areas
