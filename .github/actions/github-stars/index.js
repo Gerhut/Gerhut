@@ -11,7 +11,7 @@ async function main (user) {
   const data = await response.json()
   return data.map(({ full_name, description, html_url }) =>
     `- [${full_name}](${html_url})  ` +
-    description != null ? '\n' + `  ${description}` : ''
+    (description != null ? '\n' + `  ${description}` : '')
   ).join('\n')
 }
 
