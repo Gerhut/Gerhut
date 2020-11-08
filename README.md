@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [newren/git-filter-repo](https://github.com/newren/git-filter-repo)  
+  Quickly rewrite git repository history (filter-branch replacement)
 - [qifeigit/learn](https://github.com/qifeigit/learn)  
 - [znck/vue-developer-experience](https://github.com/znck/vue-developer-experience)  
   A collection of tools for vue ecosystem.
@@ -90,5 +92,3 @@
   🔖 Useful template literal tags for dealing with strings in ES2015+
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui)  
   ⚡️ Simple, Modular & Accessible UI Components for your React Applications
-- [netdata/netdata](https://github.com/netdata/netdata)  
-  Real-time performance monitoring, done right! https://www.netdata.cloud
