@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [nexdrew/rekcod](https://github.com/nexdrew/rekcod)  
+  docker inspect :mag: → docker run :runner:
 - [newren/git-filter-repo](https://github.com/newren/git-filter-repo)  
   Quickly rewrite git repository history (filter-branch replacement)
 - [qifeigit/learn](https://github.com/qifeigit/learn)  
@@ -90,5 +92,3 @@
   Local HTTPS development made easy
 - [zspecza/common-tags](https://github.com/zspecza/common-tags)  
   🔖 Useful template literal tags for dealing with strings in ES2015+
-- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui)  
-  ⚡️ Simple, Modular & Accessible UI Components for your React Applications
