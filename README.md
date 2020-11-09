@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [microsoft/vscode-figma-toolkit](https://github.com/microsoft/vscode-figma-toolkit)  
+   A Figma design toolkit for Visual Studio Code
 - [nexdrew/rekcod](https://github.com/nexdrew/rekcod)  
   docker inspect :mag: → docker run :runner:
 - [newren/git-filter-repo](https://github.com/newren/git-filter-repo)  
@@ -90,5 +92,3 @@
   :fish: A fast, small-but-mighty, familiar fish...errr, router*
 - [davewasmer/devcert](https://github.com/davewasmer/devcert)  
   Local HTTPS development made easy
-- [zspecza/common-tags](https://github.com/zspecza/common-tags)  
-  🔖 Useful template literal tags for dealing with strings in ES2015+
