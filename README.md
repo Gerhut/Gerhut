@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [basecamp/trix](https://github.com/basecamp/trix)  
+  A rich text editor for everyday writing
 - [alephjs/aleph.js](https://github.com/alephjs/aleph.js)  
   The React Framework in Deno.
 - [tc39/proposal-hashbang](https://github.com/tc39/proposal-hashbang)  
@@ -90,5 +92,3 @@
   The modern styling library.
 - [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel)  
   expose yourself
-- [tser-project/tser](https://github.com/tser-project/tser)  
-  A TypeScript virtual machine.
