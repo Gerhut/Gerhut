@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [elrumordelaluz/csshake](https://github.com/elrumordelaluz/csshake)  
+  CSS classes to move your DOM!
 - [basecamp/trix](https://github.com/basecamp/trix)  
   A rich text editor for everyday writing
 - [alephjs/aleph.js](https://github.com/alephjs/aleph.js)  
@@ -90,5 +92,3 @@
   High performance Base64 encoding and decoding for Node.js using SIMD (AVX2, AVX, SSE4.2, SSE4.1, SSSE3) acceleration
 - [modulz/stitches](https://github.com/modulz/stitches)  
   The modern styling library.
-- [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel)  
-  expose yourself
