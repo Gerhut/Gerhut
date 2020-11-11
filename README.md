@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [jazzband/django-debug-toolbar](https://github.com/jazzband/django-debug-toolbar)  
+  A configurable set of panels that display various debug information about the current request/response.
 - [elrumordelaluz/csshake](https://github.com/elrumordelaluz/csshake)  
   CSS classes to move your DOM!
 - [basecamp/trix](https://github.com/basecamp/trix)  
@@ -90,5 +92,3 @@
   Fast Base64 stream encoder/decoder in C99, with SIMD acceleration
 - [lovell/64](https://github.com/lovell/64)  
   High performance Base64 encoding and decoding for Node.js using SIMD (AVX2, AVX, SSE4.2, SSE4.1, SSSE3) acceleration
-- [modulz/stitches](https://github.com/modulz/stitches)  
-  The modern styling library.
