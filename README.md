@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [haiwen/seafile](https://github.com/haiwen/seafile)  
+  High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features.
 - [mifi/editly](https://github.com/mifi/editly)  
   Slick, declarative command line video editing & API
 - [jazzband/django-debug-toolbar](https://github.com/jazzband/django-debug-toolbar)  
@@ -90,5 +92,3 @@
   A Babel plugin which eliminates closures from your JavaScript wherever possible.
 - [qawolf/playwright-video](https://github.com/qawolf/playwright-video)  
   🎬 Save a video of a Playwright page
-- [aklomp/base64](https://github.com/aklomp/base64)  
-  Fast Base64 stream encoder/decoder in C99, with SIMD acceleration
