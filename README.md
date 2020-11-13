@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [sivan/heti](https://github.com/sivan/heti)  
+  赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
 - [haiwen/seafile](https://github.com/haiwen/seafile)  
   High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features.
 - [mifi/editly](https://github.com/mifi/editly)  
@@ -90,5 +92,3 @@
   F(unctional) util(ities). Resistance is futile.
 - [codemix/babel-plugin-closure-elimination](https://github.com/codemix/babel-plugin-closure-elimination)  
   A Babel plugin which eliminates closures from your JavaScript wherever possible.
-- [qawolf/playwright-video](https://github.com/qawolf/playwright-video)  
-  🎬 Save a video of a Playwright page
