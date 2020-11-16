@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [desktop/desktop](https://github.com/desktop/desktop)  
+  Simple collaboration from your desktop
 - [oslabs-beta/Dockter](https://github.com/oslabs-beta/Dockter)  
   A low-overhead, open-source Docker log management tool
 - [sivan/heti](https://github.com/sivan/heti)  
@@ -90,5 +92,3 @@
   Remove unused styles from CSS
 - [DenyVeyten/postcss-deadcss](https://github.com/DenyVeyten/postcss-deadcss)  
   Plugin that helps to find dead CSS in stylesheets
-- [smartprocure/futil-js](https://github.com/smartprocure/futil-js)  
-  F(unctional) util(ities). Resistance is futile.
