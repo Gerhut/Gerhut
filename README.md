@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [oslabs-beta/Dockter](https://github.com/oslabs-beta/Dockter)  
+  A low-overhead, open-source Docker log management tool
 - [sivan/heti](https://github.com/sivan/heti)  
   赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
 - [haiwen/seafile](https://github.com/haiwen/seafile)  
@@ -90,5 +92,3 @@
   Plugin that helps to find dead CSS in stylesheets
 - [smartprocure/futil-js](https://github.com/smartprocure/futil-js)  
   F(unctional) util(ities). Resistance is futile.
-- [codemix/babel-plugin-closure-elimination](https://github.com/codemix/babel-plugin-closure-elimination)  
-  A Babel plugin which eliminates closures from your JavaScript wherever possible.
