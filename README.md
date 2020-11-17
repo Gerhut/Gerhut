@@ -33,6 +33,10 @@
 
 ## Recently Starred Repos
 
+- [gpiozero/gpiozero](https://github.com/gpiozero/gpiozero)  
+  A simple interface to GPIO devices with Raspberry Pi
+- [metachris/RPIO](https://github.com/metachris/RPIO)  
+  RPIO is a GPIO toolbox for the Raspberry Pi.
 - [desktop/desktop](https://github.com/desktop/desktop)  
   Simple collaboration from your desktop
 - [oslabs-beta/Dockter](https://github.com/oslabs-beta/Dockter)  
@@ -88,7 +92,3 @@
   Manage the DNS records of domain "of.dog".
 - [silverwind/dnsz](https://github.com/silverwind/dnsz)  
   Generic DNS zone file parser and stringifier
-- [uncss/uncss](https://github.com/uncss/uncss)  
-  Remove unused styles from CSS
-- [DenyVeyten/postcss-deadcss](https://github.com/DenyVeyten/postcss-deadcss)  
-  Plugin that helps to find dead CSS in stylesheets
