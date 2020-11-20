@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [xcatliu/anti-headhunting](https://github.com/xcatliu/anti-headhunting)  
+  对不起，我不找工作。
 - [gpiozero/gpiozero](https://github.com/gpiozero/gpiozero)  
   A simple interface to GPIO devices with Raspberry Pi
 - [metachris/RPIO](https://github.com/metachris/RPIO)  
@@ -90,5 +92,3 @@
   A wrapper around node_redis with Promise and TypeScript support.
 - [Gerhut/of.dog](https://github.com/Gerhut/of.dog)  
   Manage the DNS records of domain "of.dog".
-- [silverwind/dnsz](https://github.com/silverwind/dnsz)  
-  Generic DNS zone file parser and stringifier
