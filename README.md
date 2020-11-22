@@ -77,7 +77,7 @@
 - [Yoctol/bottender](https://github.com/Yoctol/bottender)  
   ⚡️ A framework for building conversational user interfaces.
 - [phosphor-icons/phosphor-home](https://github.com/phosphor-icons/phosphor-home)  
-  A flexible icon family for everyone
+  The homepage of Phosphor Icons, a flexible icon family for everyone
 - [bokuweb/react-sortable-pane](https://github.com/bokuweb/react-sortable-pane)  
   :sparkles: A sortable and resizable pane component for React.
 - [mourner/bullshit.js](https://github.com/mourner/bullshit.js)  
