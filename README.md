@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [offen/offen](https://github.com/offen/offen)  
+  The fair and lightweight alternative to common web analytics tools. 
 - [upptime/upptime](https://github.com/upptime/upptime)  
   ⬆️ Uptime monitor and status page powered by GitHub
 - [orf/gping](https://github.com/orf/gping)  
@@ -90,5 +92,3 @@
   React components that allow you to divide a page or container into nestable anchored, scrollable and resizable spaces.
 - [zesik/react-splitter-layout](https://github.com/zesik/react-splitter-layout)  
   A simple split layout for React and modern browsers. https://zesik.com/react-splitter-layout
-- [mmkal/handy-redis](https://github.com/mmkal/handy-redis)  
-  A wrapper around node_redis with Promise and TypeScript support.
