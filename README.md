@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [bundlewatch/bundlewatch](https://github.com/bundlewatch/bundlewatch)  
+  Keep watch of your bundle size
 - [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar)  
   Full-sized drag & drop event calendar
 - [offen/offen](https://github.com/offen/offen)  
@@ -90,5 +92,3 @@
   A bookmarklet for translating marketing speak into human-readable text. :poop:
 - [tjanczuk/iisnode](https://github.com/tjanczuk/iisnode)  
   Hosting node.js applications in IIS on Windows
-- [aeagle/react-spaces](https://github.com/aeagle/react-spaces)  
-  React components that allow you to divide a page or container into nestable anchored, scrollable and resizable spaces.
