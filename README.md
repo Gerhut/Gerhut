@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar)  
+  Full-sized drag & drop event calendar
 - [offen/offen](https://github.com/offen/offen)  
   The fair and lightweight alternative to common web analytics tools. 
 - [upptime/upptime](https://github.com/upptime/upptime)  
@@ -90,5 +92,3 @@
   Hosting node.js applications in IIS on Windows
 - [aeagle/react-spaces](https://github.com/aeagle/react-spaces)  
   React components that allow you to divide a page or container into nestable anchored, scrollable and resizable spaces.
-- [zesik/react-splitter-layout](https://github.com/zesik/react-splitter-layout)  
-  A simple split layout for React and modern browsers. https://zesik.com/react-splitter-layout
