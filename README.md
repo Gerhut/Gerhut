@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [nodemailer/wildduck](https://github.com/nodemailer/wildduck)  
+  Opinionated email server
 - [nteract/ansi-to-react](https://github.com/nteract/ansi-to-react)  
   :guardsman: ANSI to React
 - [bundlewatch/bundlewatch](https://github.com/bundlewatch/bundlewatch)  
@@ -90,5 +92,3 @@
   The homepage of Phosphor Icons, a flexible icon family for everyone
 - [bokuweb/react-sortable-pane](https://github.com/bokuweb/react-sortable-pane)  
   :sparkles: A sortable and resizable pane component for React.
-- [mourner/bullshit.js](https://github.com/mourner/bullshit.js)  
-  A bookmarklet for translating marketing speak into human-readable text. :poop:
