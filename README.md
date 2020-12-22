@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [anymail/django-anymail](https://github.com/anymail/django-anymail)  
+  Django email backends and webhooks for Amazon SES, Mailgun, Mailjet, Postmark, SendGrid, Sendinblue, SparkPost and more
 - [nodemailer/wildduck](https://github.com/nodemailer/wildduck)  
   Opinionated email server
 - [nteract/ansi-to-react](https://github.com/nteract/ansi-to-react)  
@@ -90,5 +92,3 @@
   ⚡️ A framework for building conversational user interfaces.
 - [phosphor-icons/phosphor-home](https://github.com/phosphor-icons/phosphor-home)  
   The homepage of Phosphor Icons, a flexible icon family for everyone
-- [bokuweb/react-sortable-pane](https://github.com/bokuweb/react-sortable-pane)  
-  :sparkles: A sortable and resizable pane component for React.
