@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [dtinth/comic-mono-font](https://github.com/dtinth/comic-mono-font)  
+  A legible monospace font... the very typeface you’ve been trained to recognize since childhood
 - [anymail/django-anymail](https://github.com/anymail/django-anymail)  
   Django email backends and webhooks for Amazon SES, Mailgun, Mailjet, Postmark, SendGrid, Sendinblue, SparkPost and more
 - [nodemailer/wildduck](https://github.com/nodemailer/wildduck)  
@@ -90,5 +92,3 @@
   见得多了
 - [Yoctol/bottender](https://github.com/Yoctol/bottender)  
   ⚡️ A framework for building conversational user interfaces.
-- [phosphor-icons/phosphor-home](https://github.com/phosphor-icons/phosphor-home)  
-  The homepage of Phosphor Icons, a flexible icon family for everyone
