@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [visualboyadvance-m/visualboyadvance-m](https://github.com/visualboyadvance-m/visualboyadvance-m)  
+  The continuing development of the legendary VBA gameboy advance emulator.
 - [dtinth/comic-mono-font](https://github.com/dtinth/comic-mono-font)  
   A legible monospace font... the very typeface you’ve been trained to recognize since childhood
 - [anymail/django-anymail](https://github.com/anymail/django-anymail)  
@@ -90,5 +92,3 @@
   A React component for playing a variety of URLs, including file paths, YouTube, Facebook, Twitch, SoundCloud, Streamable, Vimeo, Wistia and DailyMotion
 - [xiaq/halang](https://github.com/xiaq/halang)  
   见得多了
-- [Yoctol/bottender](https://github.com/Yoctol/bottender)  
-  ⚡️ A framework for building conversational user interfaces.
