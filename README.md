@@ -52,7 +52,7 @@
 - [offen/offen](https://github.com/offen/offen)  
   The fair and lightweight alternative to common web analytics tools. 
 - [upptime/upptime](https://github.com/upptime/upptime)  
-  ⬆️ Uptime monitor and status page powered by GitHub
+  ⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages
 - [orf/gping](https://github.com/orf/gping)  
   Ping, but with a graph
 - [gpiozero/gpiozero](https://github.com/gpiozero/gpiozero)  
