@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [rytilahti/python-miio](https://github.com/rytilahti/python-miio)  
+  Python library & console tool for controlling Xiaomi smart appliances
 - [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto)  
   The configuration framework for Zsh
 - [visualboyadvance-m/visualboyadvance-m](https://github.com/visualboyadvance-m/visualboyadvance-m)  
@@ -90,5 +92,3 @@
   A collection of tools for vue ecosystem.
 - [micromark/micromark](https://github.com/micromark/micromark)  
   the smallest commonmark compliant markdown parser that exists; new basis for @unifiedjs (hundreds of projects w/ billions of downloads for dealing w/ content)
-- [cookpete/react-player](https://github.com/cookpete/react-player)  
-  A React component for playing a variety of URLs, including file paths, YouTube, Facebook, Twitch, SoundCloud, Streamable, Vimeo, Wistia and DailyMotion
