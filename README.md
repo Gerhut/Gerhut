@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [Gerhut/eslint-plugin-no-empty-object-literals](https://github.com/Gerhut/eslint-plugin-no-empty-object-literals)  
+  ESLint plugin for disabling empty object literals (`{}`).
 - [LIJI32/SameBoy](https://github.com/LIJI32/SameBoy)  
   Game Boy and Game Boy Color emulator written in C
 - [rytilahti/python-miio](https://github.com/rytilahti/python-miio)  
@@ -90,5 +92,3 @@
 - [newren/git-filter-repo](https://github.com/newren/git-filter-repo)  
   Quickly rewrite git repository history (filter-branch replacement)
 - [qifeigit/learn](https://github.com/qifeigit/learn)  
-- [znck/vue-developer-experience](https://github.com/znck/vue-developer-experience)  
-  A collection of tools for vue ecosystem.
