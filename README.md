@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [Gerhut/eslint-plugin-gerhut](https://github.com/Gerhut/eslint-plugin-gerhut)  
+  Additional ESLint rules I used.
 - [Gerhut/eslint-plugin-no-empty-object-literals](https://github.com/Gerhut/eslint-plugin-no-empty-object-literals)  
   ESLint plugin for disabling empty object literals (`{}`).
 - [LIJI32/SameBoy](https://github.com/LIJI32/SameBoy)  
@@ -91,4 +93,3 @@
   docker inspect :mag: → docker run :runner:
 - [newren/git-filter-repo](https://github.com/newren/git-filter-repo)  
   Quickly rewrite git repository history (filter-branch replacement)
-- [qifeigit/learn](https://github.com/qifeigit/learn)  
