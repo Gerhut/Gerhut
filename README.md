@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [payloadcms/payload](https://github.com/payloadcms/payload)  
+  Headless CMS and Application Framework built with Node.js, React and MongoDB
 - [Gerhut/eslint-plugin-gerhut](https://github.com/Gerhut/eslint-plugin-gerhut)  
   Additional ESLint rules I used.
 - [Gerhut/eslint-plugin-no-empty-object-literals](https://github.com/Gerhut/eslint-plugin-no-empty-object-literals)  
@@ -91,5 +93,3 @@
    A Figma design toolkit for Visual Studio Code
 - [nexdrew/rekcod](https://github.com/nexdrew/rekcod)  
   docker inspect :mag: → docker run :runner:
-- [newren/git-filter-repo](https://github.com/newren/git-filter-repo)  
-  Quickly rewrite git repository history (filter-branch replacement)
