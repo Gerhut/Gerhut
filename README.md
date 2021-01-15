@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [duty-machine/duty-machine](https://github.com/duty-machine/duty-machine)  
+  一个备份网络文章的服务。声援陈玫、蔡伟及其女友小唐，请关注端点星事件。
 - [payloadcms/payload](https://github.com/payloadcms/payload)  
   Headless CMS and Application Framework built with Node.js, React and MongoDB
 - [Gerhut/eslint-plugin-gerhut](https://github.com/Gerhut/eslint-plugin-gerhut)  
@@ -91,5 +93,3 @@
   #! for JS
 - [microsoft/vscode-figma-toolkit](https://github.com/microsoft/vscode-figma-toolkit)  
    A Figma design toolkit for Visual Studio Code
-- [nexdrew/rekcod](https://github.com/nexdrew/rekcod)  
-  docker inspect :mag: → docker run :runner:
