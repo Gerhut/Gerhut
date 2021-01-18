@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [shockpkg/swf-projector](https://github.com/shockpkg/swf-projector)  
+  Package for creating Flash Player projectors
 - [ArnoSaine/use-axios](https://github.com/ArnoSaine/use-axios)  
   Simple Axios hook for React
 - [duty-machine/duty-machine](https://github.com/duty-machine/duty-machine)  
@@ -91,5 +93,3 @@
   A rich text editor for everyday writing
 - [alephjs/aleph.js](https://github.com/alephjs/aleph.js)  
   The React Framework in Deno.
-- [tc39/proposal-hashbang](https://github.com/tc39/proposal-hashbang)  
-  #! for JS
