@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [forgojs/forgo](https://github.com/forgojs/forgo)  
+  An ultra-light UI runtime
 - [shockpkg/swf-projector](https://github.com/shockpkg/swf-projector)  
   Package for creating Flash Player projectors
 - [ArnoSaine/use-axios](https://github.com/ArnoSaine/use-axios)  
@@ -91,5 +93,3 @@
   CSS classes to move your DOM!
 - [basecamp/trix](https://github.com/basecamp/trix)  
   A rich text editor for everyday writing
-- [alephjs/aleph.js](https://github.com/alephjs/aleph.js)  
-  The React Framework in Deno.
