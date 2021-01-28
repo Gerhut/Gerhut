@@ -33,6 +33,7 @@
 
 ## Recently Starred Repos
 
+- [Dafrok/f-check](https://github.com/Dafrok/f-check)  
 - [forgojs/forgo](https://github.com/forgojs/forgo)  
   An ultra-light UI runtime
 - [shockpkg/swf-projector](https://github.com/shockpkg/swf-projector)  
@@ -91,5 +92,3 @@
   A configurable set of panels that display various debug information about the current request/response.
 - [elrumordelaluz/csshake](https://github.com/elrumordelaluz/csshake)  
   CSS classes to move your DOM!
-- [basecamp/trix](https://github.com/basecamp/trix)  
-  A rich text editor for everyday writing
