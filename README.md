@@ -33,6 +33,10 @@
 
 ## Recently Starred Repos
 
+- [alpinejs/alpine](https://github.com/alpinejs/alpine)  
+  A rugged, minimal framework for composing JavaScript behavior in your markup.
+- [conwnet/github1s](https://github.com/conwnet/github1s)  
+  One second to read GitHub code with VS Code.
 - [Dafrok/f-check](https://github.com/Dafrok/f-check)  
 - [forgojs/forgo](https://github.com/forgojs/forgo)  
   An ultra-light UI runtime
@@ -88,7 +92,3 @@
   High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features.
 - [mifi/editly](https://github.com/mifi/editly)  
   Slick, declarative command line video editing & API
-- [jazzband/django-debug-toolbar](https://github.com/jazzband/django-debug-toolbar)  
-  A configurable set of panels that display various debug information about the current request/response.
-- [elrumordelaluz/csshake](https://github.com/elrumordelaluz/csshake)  
-  CSS classes to move your DOM!
