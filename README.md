@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [JonnyBurger/remotion](https://github.com/JonnyBurger/remotion)  
+  🎥      Create videos programmatically in React
 - [alpinejs/alpine](https://github.com/alpinejs/alpine)  
   A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [conwnet/github1s](https://github.com/conwnet/github1s)  
@@ -90,5 +92,3 @@
   赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
 - [haiwen/seafile](https://github.com/haiwen/seafile)  
   High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features.
-- [mifi/editly](https://github.com/mifi/editly)  
-  Slick, declarative command line video editing & API
