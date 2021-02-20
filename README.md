@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [trevorlinton/webkit.js](https://github.com/trevorlinton/webkit.js)  
+  Pure JavaScript Port of WebKit
 - [justjavac/1s](https://github.com/justjavac/1s)  
   天若有情天亦老，我为网站加一秒
 - [JonnyBurger/remotion](https://github.com/JonnyBurger/remotion)  
@@ -90,5 +92,3 @@
   Simple collaboration from your desktop
 - [oslabs-beta/Dockter](https://github.com/oslabs-beta/Dockter)  
   A low-overhead, open-source Docker log management tool
-- [sivan/heti](https://github.com/sivan/heti)  
-  赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
