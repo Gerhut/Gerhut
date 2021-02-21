@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [ai-eks/OpenClubhouse](https://github.com/ai-eks/OpenClubhouse)  
+  A third-part web application based on flask to play Clubhouse audio.
 - [trevorlinton/webkit.js](https://github.com/trevorlinton/webkit.js)  
   Pure JavaScript Port of WebKit
 - [justjavac/1s](https://github.com/justjavac/1s)  
@@ -90,5 +92,3 @@
   RPIO is a GPIO toolbox for the Raspberry Pi.
 - [desktop/desktop](https://github.com/desktop/desktop)  
   Simple collaboration from your desktop
-- [oslabs-beta/Dockter](https://github.com/oslabs-beta/Dockter)  
-  A low-overhead, open-source Docker log management tool
