@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [pypyr/pypyr](https://github.com/pypyr/pypyr)  
+  pypyr task-runner cli & api for automation pipelines. Automate anything by combining commands, different scripts in different languages & applications into one pipeline process.
 - [ai-eks/OpenClubhouse](https://github.com/ai-eks/OpenClubhouse)  
   A third-part web application based on flask to play Clubhouse audio.
 - [trevorlinton/webkit.js](https://github.com/trevorlinton/webkit.js)  
@@ -90,5 +92,3 @@
   A simple interface to GPIO devices with Raspberry Pi
 - [metachris/RPIO](https://github.com/metachris/RPIO)  
   RPIO is a GPIO toolbox for the Raspberry Pi.
-- [desktop/desktop](https://github.com/desktop/desktop)  
-  Simple collaboration from your desktop
