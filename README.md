@@ -33,6 +33,10 @@
 
 ## Recently Starred Repos
 
+- [blocks/blocks](https://github.com/blocks/blocks)  
+  A JSX-based page builder for creating beautiful websites without writing code
+- [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash)  
+  A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [pypyr/pypyr](https://github.com/pypyr/pypyr)  
   pypyr task-runner cli & api for automation pipelines. Automate anything by combining commands, different scripts in different languages & applications into one pipeline process.
 - [ai-eks/OpenClubhouse](https://github.com/ai-eks/OpenClubhouse)  
@@ -88,7 +92,3 @@
   ⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages
 - [orf/gping](https://github.com/orf/gping)  
   Ping, but with a graph
-- [gpiozero/gpiozero](https://github.com/gpiozero/gpiozero)  
-  A simple interface to GPIO devices with Raspberry Pi
-- [metachris/RPIO](https://github.com/metachris/RPIO)  
-  RPIO is a GPIO toolbox for the Raspberry Pi.
