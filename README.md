@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [you-dont-need/You-Dont-Need-Loops](https://github.com/you-dont-need/You-Dont-Need-Loops)  
+  Avoid The One-off Problem, Infinite Loops, Statefulness and Hidden intent.
 - [blocks/blocks](https://github.com/blocks/blocks)  
   A JSX-based page builder for creating beautiful websites without writing code
 - [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash)  
@@ -90,5 +92,3 @@
   The fair and lightweight alternative to common web analytics tools. 
 - [upptime/upptime](https://github.com/upptime/upptime)  
   ⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages
-- [orf/gping](https://github.com/orf/gping)  
-  Ping, but with a graph
