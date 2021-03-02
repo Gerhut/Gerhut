@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [antfu/vscode-browse-lite](https://github.com/antfu/vscode-browse-lite)  
+  🚀 An embedded browser in VS Code
 - [zen-spark/zen-spark.github.io](https://github.com/zen-spark/zen-spark.github.io)  
 - [you-dont-need/You-Dont-Need-Loops](https://github.com/you-dont-need/You-Dont-Need-Loops)  
   Avoid The One-off Problem, Infinite Loops, Statefulness and Hidden intent.
@@ -89,5 +91,3 @@
   Keep watch of your bundle size
 - [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar)  
   Full-sized drag & drop event calendar
-- [offen/offen](https://github.com/offen/offen)  
-  The fair and lightweight alternative to common web analytics tools. 
