@@ -36,6 +36,7 @@
 - [antfu/vscode-browse-lite](https://github.com/antfu/vscode-browse-lite)  
   🚀 An embedded browser in VS Code
 - [zen-spark/zen-spark.github.io](https://github.com/zen-spark/zen-spark.github.io)  
+  http://zenspark.cn
 - [you-dont-need/You-Dont-Need-Loops](https://github.com/you-dont-need/You-Dont-Need-Loops)  
   Avoid The One-off Problem, Infinite Loops, Statefulness and Hidden intent.
 - [blocks/blocks](https://github.com/blocks/blocks)  
