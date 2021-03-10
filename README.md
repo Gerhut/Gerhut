@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [madrobby/vapor.js](https://github.com/madrobby/vapor.js)  
+  The World's Smallest & Fastest JavaScript Library
 - [antfu/vscode-browse-lite](https://github.com/antfu/vscode-browse-lite)  
   🚀 An embedded browser in VS Code
 - [zen-spark/zen-spark.github.io](https://github.com/zen-spark/zen-spark.github.io)  
@@ -90,5 +92,3 @@
   :guardsman: ANSI to React
 - [bundlewatch/bundlewatch](https://github.com/bundlewatch/bundlewatch)  
   Keep watch of your bundle size
-- [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar)  
-  Full-sized drag & drop event calendar
