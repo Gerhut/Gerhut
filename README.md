@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [Schniz/fnm](https://github.com/Schniz/fnm)  
+  🚀 Fast and simple Node.js version manager, built in Rust
 - [madrobby/vapor.js](https://github.com/madrobby/vapor.js)  
   The World's Smallest & Fastest JavaScript Library
 - [antfu/vscode-browse-lite](https://github.com/antfu/vscode-browse-lite)  
@@ -90,5 +92,3 @@
   Opinionated email server
 - [nteract/ansi-to-react](https://github.com/nteract/ansi-to-react)  
   :guardsman: ANSI to React
-- [bundlewatch/bundlewatch](https://github.com/bundlewatch/bundlewatch)  
-  Keep watch of your bundle size
