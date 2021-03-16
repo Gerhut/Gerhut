@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [framer/motion](https://github.com/framer/motion)  
+  Open source, production-ready animation and gesture library for React
 - [Schniz/fnm](https://github.com/Schniz/fnm)  
   🚀 Fast and simple Node.js version manager, built in Rust
 - [madrobby/vapor.js](https://github.com/madrobby/vapor.js)  
@@ -90,5 +92,3 @@
   Django email backends and webhooks for Amazon SES, Mailgun, Mailjet, Postmark, SendGrid, Sendinblue, SparkPost and more
 - [nodemailer/wildduck](https://github.com/nodemailer/wildduck)  
   Opinionated email server
-- [nteract/ansi-to-react](https://github.com/nteract/ansi-to-react)  
-  :guardsman: ANSI to React
