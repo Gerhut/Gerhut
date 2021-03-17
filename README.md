@@ -33,6 +33,11 @@
 
 ## Recently Starred Repos
 
+- [ducaale/xh](https://github.com/ducaale/xh)  
+  Friendly and fast tool for sending HTTP requests
+- [wbkd/react-flow](https://github.com/wbkd/react-flow)  
+  Highly customizable library for building interactive node-based UIs, editors, flow charts and diagrams 
+- [tailwindlabs/tailwindcss-jit](https://github.com/tailwindlabs/tailwindcss-jit)  
 - [framer/motion](https://github.com/framer/motion)  
   Open source, production-ready animation and gesture library for React
 - [Schniz/fnm](https://github.com/Schniz/fnm)  
@@ -86,9 +91,3 @@
   The configuration framework for Zsh
 - [visualboyadvance-m/visualboyadvance-m](https://github.com/visualboyadvance-m/visualboyadvance-m)  
   The continuing development of the legendary VBA gameboy advance emulator.
-- [dtinth/comic-mono-font](https://github.com/dtinth/comic-mono-font)  
-  A legible monospace font... the very typeface you’ve been trained to recognize since childhood
-- [anymail/django-anymail](https://github.com/anymail/django-anymail)  
-  Django email backends and webhooks for Amazon SES, Mailgun, Mailjet, Postmark, SendGrid, Sendinblue, SparkPost and more
-- [nodemailer/wildduck](https://github.com/nodemailer/wildduck)  
-  Opinionated email server
