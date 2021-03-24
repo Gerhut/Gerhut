@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [gridsome/gridsome](https://github.com/gridsome/gridsome)  
+  ⚡️ The Jamstack framework for Vue.js
 - [antfu/windicss-runtime-dom](https://github.com/antfu/windicss-runtime-dom)  
   {WIP} Enables Windi CSS for any site with one-line code without any build tools 
 - [ducaale/xh](https://github.com/ducaale/xh)  
@@ -89,5 +91,3 @@
   Game Boy and Game Boy Color emulator written in C
 - [rytilahti/python-miio](https://github.com/rytilahti/python-miio)  
   Python library & console tool for controlling Xiaomi smart appliances
-- [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto)  
-  The configuration framework for Zsh
