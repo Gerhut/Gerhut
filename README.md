@@ -33,6 +33,10 @@
 
 ## Recently Starred Repos
 
+- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)  
+  Virtual whiteboard for sketching hand-drawn like diagrams
+- [harc/ohm](https://github.com/harc/ohm)  
+  A library and language for building parsers, interpreters, compilers, etc.
 - [gridsome/gridsome](https://github.com/gridsome/gridsome)  
   ⚡️ The Jamstack framework for Vue.js
 - [antfu/windicss-runtime-dom](https://github.com/antfu/windicss-runtime-dom)  
@@ -87,7 +91,3 @@
   Additional ESLint rules I used.
 - [Gerhut/eslint-plugin-no-empty-object-literals](https://github.com/Gerhut/eslint-plugin-no-empty-object-literals)  
   ESLint plugin for disabling empty object literals (`{}`).
-- [LIJI32/SameBoy](https://github.com/LIJI32/SameBoy)  
-  Game Boy and Game Boy Color emulator written in C
-- [rytilahti/python-miio](https://github.com/rytilahti/python-miio)  
-  Python library & console tool for controlling Xiaomi smart appliances
