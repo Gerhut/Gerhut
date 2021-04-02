@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [supabase/supabase-js](https://github.com/supabase/supabase-js)  
+  An isomorphic Javascript client for Supabase.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)  
   Virtual whiteboard for sketching hand-drawn like diagrams
 - [harc/ohm](https://github.com/harc/ohm)  
@@ -89,5 +91,3 @@
   Headless CMS and Application Framework built with Node.js, React and MongoDB
 - [Gerhut/eslint-plugin-gerhut](https://github.com/Gerhut/eslint-plugin-gerhut)  
   Additional ESLint rules I used.
-- [Gerhut/eslint-plugin-no-empty-object-literals](https://github.com/Gerhut/eslint-plugin-no-empty-object-literals)  
-  ESLint plugin for disabling empty object literals (`{}`).
