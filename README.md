@@ -42,7 +42,7 @@
 - [gridsome/gridsome](https://github.com/gridsome/gridsome)  
   ⚡️ The Jamstack framework for Vue.js
 - [antfu/windicss-runtime-dom](https://github.com/antfu/windicss-runtime-dom)  
-  {WIP} Enables Windi CSS for any site with one-line code without any build tools 
+  🪄 Enables Windi CSS for any site with one-line code without any build tools 
 - [ducaale/xh](https://github.com/ducaale/xh)  
   Friendly and fast tool for sending HTTP requests
 - [wbkd/react-flow](https://github.com/wbkd/react-flow)  
