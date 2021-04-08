@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [rogerbinns/apsw](https://github.com/rogerbinns/apsw)  
+  Another Python SQLite wrapper
 - [supabase/supabase-js](https://github.com/supabase/supabase-js)  
   An isomorphic Javascript client for Supabase.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)  
@@ -89,5 +91,3 @@
   一个备份网络文章的服务。声援陈玫、蔡伟及其女友小唐，请关注端点星事件。
 - [payloadcms/payload](https://github.com/payloadcms/payload)  
   Headless CMS and Application Framework built with Node.js, React and MongoDB
-- [Gerhut/eslint-plugin-gerhut](https://github.com/Gerhut/eslint-plugin-gerhut)  
-  Additional ESLint rules I used.
