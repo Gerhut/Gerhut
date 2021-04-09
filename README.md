@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [ivelum/djangoql](https://github.com/ivelum/djangoql)  
+  Advanced search language for Django
 - [rogerbinns/apsw](https://github.com/rogerbinns/apsw)  
   Another Python SQLite wrapper
 - [supabase/supabase-js](https://github.com/supabase/supabase-js)  
@@ -89,5 +91,3 @@
   Simple Axios hook for React
 - [duty-machine/duty-machine](https://github.com/duty-machine/duty-machine)  
   一个备份网络文章的服务。声援陈玫、蔡伟及其女友小唐，请关注端点星事件。
-- [payloadcms/payload](https://github.com/payloadcms/payload)  
-  Headless CMS and Application Framework built with Node.js, React and MongoDB
