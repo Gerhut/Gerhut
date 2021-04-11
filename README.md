@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [rust-ndarray/ndarray](https://github.com/rust-ndarray/ndarray)  
+  ndarray: an N-dimensional array with array views, multidimensional slicing, and efficient operations
 - [ivelum/djangoql](https://github.com/ivelum/djangoql)  
   Advanced search language for Django
 - [rogerbinns/apsw](https://github.com/rogerbinns/apsw)  
@@ -89,5 +91,3 @@
   Package for creating Flash Player projectors
 - [ArnoSaine/use-axios](https://github.com/ArnoSaine/use-axios)  
   Simple Axios hook for React
-- [duty-machine/duty-machine](https://github.com/duty-machine/duty-machine)  
-  一个备份网络文章的服务。声援陈玫、蔡伟及其女友小唐，请关注端点星事件。
