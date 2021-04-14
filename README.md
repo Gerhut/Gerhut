@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [maryrosecook/gitlet](https://github.com/maryrosecook/gitlet)  
+  Git implemented in JavaScript
 - [rust-ndarray/ndarray](https://github.com/rust-ndarray/ndarray)  
   ndarray: an N-dimensional array with array views, multidimensional slicing, and efficient operations
 - [ivelum/djangoql](https://github.com/ivelum/djangoql)  
@@ -89,5 +91,3 @@
   An ultra-light UI runtime
 - [shockpkg/swf-projector](https://github.com/shockpkg/swf-projector)  
   Package for creating Flash Player projectors
-- [ArnoSaine/use-axios](https://github.com/ArnoSaine/use-axios)  
-  Simple Axios hook for React
