@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [django-tastypie/django-tastypie](https://github.com/django-tastypie/django-tastypie)  
+  Creating delicious APIs for Django apps since 2010.
 - [maryrosecook/gitlet](https://github.com/maryrosecook/gitlet)  
   Git implemented in JavaScript
 - [rust-ndarray/ndarray](https://github.com/rust-ndarray/ndarray)  
@@ -89,5 +91,3 @@
 - [Dafrok/f-check](https://github.com/Dafrok/f-check)  
 - [forgojs/forgo](https://github.com/forgojs/forgo)  
   An ultra-light UI runtime
-- [shockpkg/swf-projector](https://github.com/shockpkg/swf-projector)  
-  Package for creating Flash Player projectors
