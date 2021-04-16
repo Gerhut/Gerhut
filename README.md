@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [andybrewer/mvp](https://github.com/andybrewer/mvp)  
+  MVP.css — Minimalist stylesheet for HTML elements
 - [django-tastypie/django-tastypie](https://github.com/django-tastypie/django-tastypie)  
   Creating delicious APIs for Django apps since 2010.
 - [maryrosecook/gitlet](https://github.com/maryrosecook/gitlet)  
@@ -89,5 +91,3 @@
 - [conwnet/github1s](https://github.com/conwnet/github1s)  
   One second to read GitHub code with VS Code.
 - [Dafrok/f-check](https://github.com/Dafrok/f-check)  
-- [forgojs/forgo](https://github.com/forgojs/forgo)  
-  An ultra-light UI runtime
