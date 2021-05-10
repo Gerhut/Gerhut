@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [google/zx](https://github.com/google/zx)  
+  A tool for writing better scripts
 - [ranchoswang/BUPTNiceMentors](https://github.com/ranchoswang/BUPTNiceMentors)  
   Nice Mentors in Beijing University Of Programming and Typing 
 - [flaneur2020/pua-lang](https://github.com/flaneur2020/pua-lang)  
@@ -89,5 +91,3 @@
   Pure JavaScript Port of WebKit
 - [justjavac/1s](https://github.com/justjavac/1s)  
   天若有情天亦老，我为网站加一秒
-- [JonnyBurger/remotion](https://github.com/JonnyBurger/remotion)  
-  🎥      Create videos programmatically in React
