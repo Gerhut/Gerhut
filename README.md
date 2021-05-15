@@ -33,6 +33,10 @@
 
 ## Recently Starred Repos
 
+- [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)  
+  The headless editor framework for web artisans.
+- [yjs/yjs](https://github.com/yjs/yjs)  
+  Shared data types for building collaborative software
 - [slidevjs/slidev](https://github.com/slidevjs/slidev)  
   Presentation Slides for Developers (Public Beta 🎉)
 - [google/zx](https://github.com/google/zx)  
@@ -87,7 +91,3 @@
   A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [pypyr/pypyr](https://github.com/pypyr/pypyr)  
   pypyr task-runner cli & api for automation pipelines. Automate anything by combining commands, different scripts in different languages & applications into one pipeline process.
-- [ai-eks/OpenClubhouse](https://github.com/ai-eks/OpenClubhouse)  
-  A third-part web application based on flask to play Clubhouse audio.
-- [trevorlinton/webkit.js](https://github.com/trevorlinton/webkit.js)  
-  Pure JavaScript Port of WebKit
