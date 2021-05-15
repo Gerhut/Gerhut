@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [slidevjs/slidev](https://github.com/slidevjs/slidev)  
+  Presentation Slides for Developers (Public Beta 🎉)
 - [google/zx](https://github.com/google/zx)  
   A tool for writing better scripts
 - [ranchoswang/BUPTNiceMentors](https://github.com/ranchoswang/BUPTNiceMentors)  
@@ -89,5 +91,3 @@
   A third-part web application based on flask to play Clubhouse audio.
 - [trevorlinton/webkit.js](https://github.com/trevorlinton/webkit.js)  
   Pure JavaScript Port of WebKit
-- [justjavac/1s](https://github.com/justjavac/1s)  
-  天若有情天亦老，我为网站加一秒
