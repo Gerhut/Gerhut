@@ -38,7 +38,7 @@
 - [yjs/yjs](https://github.com/yjs/yjs)  
   Shared data types for building collaborative software
 - [slidevjs/slidev](https://github.com/slidevjs/slidev)  
-  Presentation Slides for Developers (Public Beta 🎉)
+  Presentation Slides for Developers (Beta)
 - [google/zx](https://github.com/google/zx)  
   A tool for writing better scripts
 - [ranchoswang/BUPTNiceMentors](https://github.com/ranchoswang/BUPTNiceMentors)  
