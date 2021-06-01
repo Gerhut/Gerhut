@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [kitsonk/trusc](https://github.com/kitsonk/trusc)  
+  An experimental binary distribution of TypeScript's tsc
 - [nocodb/nocodb](https://github.com/nocodb/nocodb)  
   🔥 🔥  The Open Source Airtable alternative
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)  
@@ -89,5 +91,3 @@
   Avoid The One-off Problem, Infinite Loops, Statefulness and Hidden intent.
 - [blocks/blocks](https://github.com/blocks/blocks)  
   A JSX-based page builder for creating beautiful websites without writing code
-- [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash)  
-  A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
