@@ -38,7 +38,7 @@
 - [kitsonk/trusc](https://github.com/kitsonk/trusc)  
   An experimental binary distribution of TypeScript's tsc
 - [nocodb/nocodb](https://github.com/nocodb/nocodb)  
-  🔥 🔥  The Open Source Airtable alternative ( Works with any database ) 
+  🔥 🔥  The Open Source Airtable alternative. 
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)  
   The headless editor framework for web artisans.
 - [yjs/yjs](https://github.com/yjs/yjs)  
