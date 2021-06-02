@@ -33,10 +33,12 @@
 
 ## Recently Starred Repos
 
+- [boardgameio/boardgame.io](https://github.com/boardgameio/boardgame.io)  
+  State Management for Turn-Based Games
 - [kitsonk/trusc](https://github.com/kitsonk/trusc)  
   An experimental binary distribution of TypeScript's tsc
 - [nocodb/nocodb](https://github.com/nocodb/nocodb)  
-  🔥 🔥  The Open Source Airtable alternative
+  🔥 🔥  The Open Source Airtable alternative - turns any database into "Smart Spreadsheet"
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)  
   The headless editor framework for web artisans.
 - [yjs/yjs](https://github.com/yjs/yjs)  
@@ -89,5 +91,3 @@
   http://zenspark.cn
 - [you-dont-need/You-Dont-Need-Loops](https://github.com/you-dont-need/You-Dont-Need-Loops)  
   Avoid The One-off Problem, Infinite Loops, Statefulness and Hidden intent.
-- [blocks/blocks](https://github.com/blocks/blocks)  
-  A JSX-based page builder for creating beautiful websites without writing code
