@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)  
+  A list of Free Software network services and web applications which can be hosted on your own servers
 - [boardgameio/boardgame.io](https://github.com/boardgameio/boardgame.io)  
   State Management for Turn-Based Games
 - [kitsonk/trusc](https://github.com/kitsonk/trusc)  
@@ -89,5 +91,3 @@
   🚀 An embedded browser in VS Code
 - [zen-spark/zen-spark.github.io](https://github.com/zen-spark/zen-spark.github.io)  
   http://zenspark.cn
-- [you-dont-need/You-Dont-Need-Loops](https://github.com/you-dont-need/You-Dont-Need-Loops)  
-  Avoid The One-off Problem, Infinite Loops, Statefulness and Hidden intent.
