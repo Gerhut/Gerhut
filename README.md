@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [rs-ipfs/rust-ipfs](https://github.com/rs-ipfs/rust-ipfs)  
+  The InterPlanetary File System (IPFS), implemented in Rust.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)  
   A list of Free Software network services and web applications which can be hosted on your own servers
 - [boardgameio/boardgame.io](https://github.com/boardgameio/boardgame.io)  
@@ -89,5 +91,3 @@
   The World's Smallest & Fastest JavaScript Library
 - [antfu/vscode-browse-lite](https://github.com/antfu/vscode-browse-lite)  
   🚀 An embedded browser in VS Code
-- [zen-spark/zen-spark.github.io](https://github.com/zen-spark/zen-spark.github.io)  
-  http://zenspark.cn
