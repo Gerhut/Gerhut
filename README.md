@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [project-serum/anchor](https://github.com/project-serum/anchor)  
+  ⚓ Solana Sealevel Framework
 - [rs-ipfs/rust-ipfs](https://github.com/rs-ipfs/rust-ipfs)  
   The InterPlanetary File System (IPFS), implemented in Rust.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)  
@@ -89,5 +91,3 @@
   🚀 Fast and simple Node.js version manager, built in Rust
 - [madrobby/vapor.js](https://github.com/madrobby/vapor.js)  
   The World's Smallest & Fastest JavaScript Library
-- [antfu/vscode-browse-lite](https://github.com/antfu/vscode-browse-lite)  
-  🚀 An embedded browser in VS Code
