@@ -33,6 +33,10 @@
 
 ## Recently Starred Repos
 
+- [zertosh/v8-compile-cache](https://github.com/zertosh/v8-compile-cache)  
+  Require hook for automatic V8 compile cache persistence
+- [jynew/jynew](https://github.com/jynew/jynew)  
+  金庸群侠传3D重制版
 - [project-serum/anchor](https://github.com/project-serum/anchor)  
   ⚓ Solana Sealevel Framework
 - [rs-ipfs/rust-ipfs](https://github.com/rs-ipfs/rust-ipfs)  
@@ -87,7 +91,3 @@
 - [tailwindlabs/tailwindcss-jit](https://github.com/tailwindlabs/tailwindcss-jit)  
 - [framer/motion](https://github.com/framer/motion)  
   Open source, production-ready animation and gesture library for React
-- [Schniz/fnm](https://github.com/Schniz/fnm)  
-  🚀 Fast and simple Node.js version manager, built in Rust
-- [madrobby/vapor.js](https://github.com/madrobby/vapor.js)  
-  The World's Smallest & Fastest JavaScript Library
