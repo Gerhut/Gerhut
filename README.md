@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [Saul-Mirone/milkdown](https://github.com/Saul-Mirone/milkdown)  
+  🍼 Plugin driven WYSIWYG  markdown editor.
 - [zertosh/v8-compile-cache](https://github.com/zertosh/v8-compile-cache)  
   Require hook for automatic V8 compile cache persistence
 - [jynew/jynew](https://github.com/jynew/jynew)  
@@ -89,5 +91,3 @@
 - [wbkd/react-flow](https://github.com/wbkd/react-flow)  
   Highly customizable library for building interactive node-based UIs, editors, flow charts and diagrams 
 - [tailwindlabs/tailwindcss-jit](https://github.com/tailwindlabs/tailwindcss-jit)  
-- [framer/motion](https://github.com/framer/motion)  
-  Open source, production-ready animation and gesture library for React
