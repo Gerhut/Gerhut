@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [openreplay/openreplay](https://github.com/openreplay/openreplay)  
+  :tv: OpenReplay is developer-friendly, open-source session replay.
 - [Saul-Mirone/milkdown](https://github.com/Saul-Mirone/milkdown)  
   🍼 Plugin driven WYSIWYG  markdown editor.
 - [zertosh/v8-compile-cache](https://github.com/zertosh/v8-compile-cache)  
@@ -90,4 +92,3 @@
   Friendly and fast tool for sending HTTP requests
 - [wbkd/react-flow](https://github.com/wbkd/react-flow)  
   Highly customizable library for building interactive node-based UIs, editors, flow charts and diagrams 
-- [tailwindlabs/tailwindcss-jit](https://github.com/tailwindlabs/tailwindcss-jit)  
