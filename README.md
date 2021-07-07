@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [shuding/nextra](https://github.com/shuding/nextra)  
+  The Next.js Static Site Generator
 - [rustviz/rustviz](https://github.com/rustviz/rustviz)  
   Interactively Visualizing Ownership and Borrowing
 - [openreplay/openreplay](https://github.com/openreplay/openreplay)  
@@ -90,5 +92,3 @@
   ⚡️ The Jamstack framework for Vue.js
 - [antfu/windicss-runtime-dom](https://github.com/antfu/windicss-runtime-dom)  
   🪄 Enables Windi CSS for any site with one-line code without any build tools 
-- [ducaale/xh](https://github.com/ducaale/xh)  
-  Friendly and fast tool for sending HTTP requests
