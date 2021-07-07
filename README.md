@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [rustviz/rustviz](https://github.com/rustviz/rustviz)  
+  Interactively Visualizing Ownership and Borrowing
 - [openreplay/openreplay](https://github.com/openreplay/openreplay)  
   :tv: OpenReplay is developer-friendly, open-source session replay.
 - [Saul-Mirone/milkdown](https://github.com/Saul-Mirone/milkdown)  
@@ -90,5 +92,3 @@
   🪄 Enables Windi CSS for any site with one-line code without any build tools 
 - [ducaale/xh](https://github.com/ducaale/xh)  
   Friendly and fast tool for sending HTTP requests
-- [wbkd/react-flow](https://github.com/wbkd/react-flow)  
-  Highly customizable library for building interactive node-based UIs, editors, flow charts and diagrams 
