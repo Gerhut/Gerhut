@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [nomcopter/react-mosaic](https://github.com/nomcopter/react-mosaic)  
+  A React tiling window manager
 - [shuding/nextra](https://github.com/shuding/nextra)  
   The Next.js Static Site Generator
 - [rustviz/rustviz](https://github.com/rustviz/rustviz)  
@@ -90,5 +92,3 @@
   A library and language for building parsers, interpreters, compilers, etc.
 - [gridsome/gridsome](https://github.com/gridsome/gridsome)  
   ⚡️ The Jamstack framework for Vue.js
-- [antfu/windicss-runtime-dom](https://github.com/antfu/windicss-runtime-dom)  
-  🪄 Enables Windi CSS for any site with one-line code without any build tools 
