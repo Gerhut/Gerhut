@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [chanind/hanzi-writer](https://github.com/chanind/hanzi-writer)  
+  Chinese character stroke order animations and practice quizzes
 - [nomcopter/react-mosaic](https://github.com/nomcopter/react-mosaic)  
   A React tiling window manager
 - [shuding/nextra](https://github.com/shuding/nextra)  
@@ -90,5 +92,3 @@
   Virtual whiteboard for sketching hand-drawn like diagrams
 - [harc/ohm](https://github.com/harc/ohm)  
   A library and language for building parsers, interpreters, compilers, etc.
-- [gridsome/gridsome](https://github.com/gridsome/gridsome)  
-  ⚡️ The Jamstack framework for Vue.js
