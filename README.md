@@ -40,7 +40,7 @@
 - [shuding/nextra](https://github.com/shuding/nextra)  
   The Next.js Static Site Generator
 - [rustviz/rustviz](https://github.com/rustviz/rustviz)  
-  Interactively Visualizing Ownership and Borrowing
+  Interactively Visualizing Ownership and Borrowing for Rust
 - [openreplay/openreplay](https://github.com/openreplay/openreplay)  
   :tv: OpenReplay is developer-friendly, open-source session replay.
 - [Saul-Mirone/milkdown](https://github.com/Saul-Mirone/milkdown)  
