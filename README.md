@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [nioperas06/awesome-django-rest-framework](https://github.com/nioperas06/awesome-django-rest-framework)  
+   💻😍Tools, processes and resources you need to create an awesome API with Django REST Framework
 - [chanind/hanzi-writer](https://github.com/chanind/hanzi-writer)  
   Chinese character stroke order animations and practice quizzes
 - [nomcopter/react-mosaic](https://github.com/nomcopter/react-mosaic)  
@@ -90,5 +92,3 @@
   An isomorphic Javascript client for Supabase.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)  
   Virtual whiteboard for sketching hand-drawn like diagrams
-- [harc/ohm](https://github.com/harc/ohm)  
-  A library and language for building parsers, interpreters, compilers, etc.
