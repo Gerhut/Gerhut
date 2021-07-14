@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [hiloteam/Sein.js](https://github.com/hiloteam/Sein.js)  
+  Progressive web 3D game engine.
 - [nioperas06/awesome-django-rest-framework](https://github.com/nioperas06/awesome-django-rest-framework)  
    💻😍Tools, processes and resources you need to create an awesome API with Django REST Framework
 - [chanind/hanzi-writer](https://github.com/chanind/hanzi-writer)  
@@ -90,5 +92,3 @@
   Another Python SQLite wrapper
 - [supabase/supabase-js](https://github.com/supabase/supabase-js)  
   An isomorphic Javascript client for Supabase.
-- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)  
-  Virtual whiteboard for sketching hand-drawn like diagrams
