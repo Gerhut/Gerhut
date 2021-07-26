@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [trivago/parallel-webpack](https://github.com/trivago/parallel-webpack)  
+  Builds multi-config webpack projects in parallel
 - [hiloteam/Sein.js](https://github.com/hiloteam/Sein.js)  
   Progressive web 3D game engine.
 - [nioperas06/awesome-django-rest-framework](https://github.com/nioperas06/awesome-django-rest-framework)  
@@ -90,5 +92,3 @@
   Advanced search language for Django
 - [rogerbinns/apsw](https://github.com/rogerbinns/apsw)  
   Another Python SQLite wrapper
-- [supabase/supabase-js](https://github.com/supabase/supabase-js)  
-  An isomorphic Javascript client for Supabase.
