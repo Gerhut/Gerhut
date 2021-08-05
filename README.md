@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [tokio-rs/axum](https://github.com/tokio-rs/axum)  
+  Ergonomic and modular web framework built with Tokio, Tower, and Hyper
 - [google/transmat](https://github.com/google/transmat)  
   Share data beyond the browser boundaries. Enable users to transfer data to external apps, and open your webapp to receive external data.
 - [trivago/parallel-webpack](https://github.com/trivago/parallel-webpack)  
@@ -90,5 +92,3 @@
   Git implemented in JavaScript
 - [rust-ndarray/ndarray](https://github.com/rust-ndarray/ndarray)  
   ndarray: an N-dimensional array with array views, multidimensional slicing, and efficient operations
-- [ivelum/djangoql](https://github.com/ivelum/djangoql)  
-  Advanced search language for Django
