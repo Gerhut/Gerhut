@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [b-zurg/react-collapse-pane](https://github.com/b-zurg/react-collapse-pane)  
+  The splittable, draggable, collapsible panel layout library 🎉
 - [tokio-rs/axum](https://github.com/tokio-rs/axum)  
   Ergonomic and modular web framework built with Tokio, Tower, and Hyper
 - [google/transmat](https://github.com/google/transmat)  
@@ -90,5 +92,3 @@
   Creating delicious APIs for Django apps since 2010.
 - [maryrosecook/gitlet](https://github.com/maryrosecook/gitlet)  
   Git implemented in JavaScript
-- [rust-ndarray/ndarray](https://github.com/rust-ndarray/ndarray)  
-  ndarray: an N-dimensional array with array views, multidimensional slicing, and efficient operations
