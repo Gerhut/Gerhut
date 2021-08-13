@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [gosp/lua-resty-ntlm](https://github.com/gosp/lua-resty-ntlm)  
+  nginx ntlm module implemented by lua
 - [yyx990803/shiki](https://github.com/yyx990803/shiki)  
   A beautiful Syntax Highlighter.
 - [akira-cn/currying-wy](https://github.com/akira-cn/currying-wy)  
@@ -90,5 +92,3 @@
 - [flaneur2020/pua-lang](https://github.com/flaneur2020/pua-lang)  
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui)  
   Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
-- [andybrewer/mvp](https://github.com/andybrewer/mvp)  
-  MVP.css — Minimalist stylesheet for HTML elements
