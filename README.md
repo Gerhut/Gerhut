@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [yyx990803/shiki](https://github.com/yyx990803/shiki)  
+  A beautiful Syntax Highlighter.
 - [akira-cn/currying-wy](https://github.com/akira-cn/currying-wy)  
   文言之柯裡化法
 - [b-zurg/react-collapse-pane](https://github.com/b-zurg/react-collapse-pane)  
@@ -90,5 +92,3 @@
   Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - [andybrewer/mvp](https://github.com/andybrewer/mvp)  
   MVP.css — Minimalist stylesheet for HTML elements
-- [django-tastypie/django-tastypie](https://github.com/django-tastypie/django-tastypie)  
-  Creating delicious APIs for Django apps since 2010.
