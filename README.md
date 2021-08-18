@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [huacat1017/huacat.office-theme](https://github.com/huacat1017/huacat.office-theme)  
+  Microsoft Office(like) theme for VScode
 - [sablejs/sablejs](https://github.com/sablejs/sablejs)  
   🏖️ The safer and faster ECMA5.1 interpreter written by JavaScript
 - [ensdomains/subdomain-registrar](https://github.com/ensdomains/subdomain-registrar)  
@@ -90,5 +92,3 @@
   Shared data types for building collaborative software
 - [slidevjs/slidev](https://github.com/slidevjs/slidev)  
   Presentation Slides for Developers (Beta)
-- [google/zx](https://github.com/google/zx)  
-  A tool for writing better scripts
