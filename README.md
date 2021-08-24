@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [ai/easings.net](https://github.com/ai/easings.net)  
+  Easing Functions Cheat Sheet
 - [huacat1017/huacat.office-theme](https://github.com/huacat1017/huacat.office-theme)  
   Microsoft Office(like) theme for VScode
 - [sablejs/sablejs](https://github.com/sablejs/sablejs)  
@@ -90,5 +92,3 @@
   The headless editor framework for web artisans.
 - [yjs/yjs](https://github.com/yjs/yjs)  
   Shared data types for building collaborative software
-- [slidevjs/slidev](https://github.com/slidevjs/slidev)  
-  Presentation Slides for Developers (Beta)
