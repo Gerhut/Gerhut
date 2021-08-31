@@ -87,7 +87,7 @@
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)  
   A list of Free Software network services and web applications which can be hosted on your own servers
 - [boardgameio/boardgame.io](https://github.com/boardgameio/boardgame.io)  
-  State Management for Turn-Based Games
+  State Management and Multiplayer Networking for Turn-Based Games
 - [kitsonk/trusc](https://github.com/kitsonk/trusc)  
   An experimental binary distribution of TypeScript's tsc
 - [nocodb/nocodb](https://github.com/nocodb/nocodb)  
