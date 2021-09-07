@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm)  
+  FFmpeg for browser and node, powered by WebAssembly
 - [DIGITALCRIMINAL/OnlyFans](https://github.com/DIGITALCRIMINAL/OnlyFans)  
   Scrape all the media from an OnlyFans account - Updated regularly
 - [microsoft/com-rs](https://github.com/microsoft/com-rs)  
@@ -90,5 +92,3 @@
   State Management and Multiplayer Networking for Turn-Based Games
 - [kitsonk/trusc](https://github.com/kitsonk/trusc)  
   An experimental binary distribution of TypeScript's tsc
-- [nocodb/nocodb](https://github.com/nocodb/nocodb)  
-  🔥 🔥  The Open Source Airtable alternative  - Powered by Vue.js 🚀 🚀  
