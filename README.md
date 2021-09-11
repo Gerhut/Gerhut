@@ -77,7 +77,7 @@
 - [openreplay/openreplay](https://github.com/openreplay/openreplay)  
   :tv: OpenReplay is developer-friendly, open-source session replay.
 - [Saul-Mirone/milkdown](https://github.com/Saul-Mirone/milkdown)  
-  🍼 Plugin driven WYSIWYG  markdown editor.
+  🍼 Plugin driven WYSIWYG  markdown editor framework.
 - [zertosh/v8-compile-cache](https://github.com/zertosh/v8-compile-cache)  
   Require hook for automatic V8 compile cache persistence
 - [jynew/jynew](https://github.com/jynew/jynew)  
