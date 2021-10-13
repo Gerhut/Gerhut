@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [jaredLunde/react-hook](https://github.com/jaredLunde/react-hook)  
+  ↩ Strongly typed, concurrent mode-safe React hooks
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm)  
   FFmpeg for browser and node, powered by WebAssembly
 - [DIGITALCRIMINAL/OnlyFans](https://github.com/DIGITALCRIMINAL/OnlyFans)  
@@ -90,5 +92,3 @@
   A list of Free Software network services and web applications which can be hosted on your own servers
 - [boardgameio/boardgame.io](https://github.com/boardgameio/boardgame.io)  
   State Management and Multiplayer Networking for Turn-Based Games
-- [kitsonk/trusc](https://github.com/kitsonk/trusc)  
-  An experimental binary distribution of TypeScript's tsc
