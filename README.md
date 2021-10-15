@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [picocss/pico](https://github.com/picocss/pico)  
+  Minimal CSS Framework for semantic HTML
 - [jaredLunde/react-hook](https://github.com/jaredLunde/react-hook)  
   ↩ Strongly typed, concurrent mode-safe React hooks
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm)  
@@ -90,5 +92,3 @@
   The InterPlanetary File System (IPFS), implemented in Rust.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)  
   A list of Free Software network services and web applications which can be hosted on your own servers
-- [boardgameio/boardgame.io](https://github.com/boardgameio/boardgame.io)  
-  State Management and Multiplayer Networking for Turn-Based Games
