@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [dtolnay/cargo-expand](https://github.com/dtolnay/cargo-expand)  
+  Subcommand to show result of macro expansion
 - [picocss/pico](https://github.com/picocss/pico)  
   Minimal CSS Framework for semantic HTML
 - [jaredLunde/react-hook](https://github.com/jaredLunde/react-hook)  
@@ -90,5 +92,3 @@
   ⚓ Solana Sealevel Framework
 - [rs-ipfs/rust-ipfs](https://github.com/rs-ipfs/rust-ipfs)  
   The InterPlanetary File System (IPFS), implemented in Rust.
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)  
-  A list of Free Software network services and web applications which can be hosted on your own servers
