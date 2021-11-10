@@ -28,7 +28,7 @@
      266.35 ┤  ╭╮╭╯                                                                                              
      262.63 ┼──╯╰╯                                                                                               
 
-> Last Refreshed: 2021-11-09 16:00:01
+> Last Refreshed: 2021-11-09
 ```
 
 ## Recently Starred Repos
