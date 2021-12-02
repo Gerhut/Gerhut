@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [supabase/supabase](https://github.com/supabase/supabase)  
+  The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [dtolnay/cargo-expand](https://github.com/dtolnay/cargo-expand)  
   Subcommand to show result of macro expansion
 - [picocss/pico](https://github.com/picocss/pico)  
@@ -90,5 +92,3 @@
   金庸群侠传3D重制版
 - [project-serum/anchor](https://github.com/project-serum/anchor)  
   ⚓ Solana Sealevel Framework
-- [rs-ipfs/rust-ipfs](https://github.com/rs-ipfs/rust-ipfs)  
-  The InterPlanetary File System (IPFS), implemented in Rust.
