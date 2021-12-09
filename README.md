@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [dolthub/dolt](https://github.com/dolthub/dolt)  
+  Dolt – It's Git for Data
 - [supabase/supabase](https://github.com/supabase/supabase)  
   The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [dtolnay/cargo-expand](https://github.com/dtolnay/cargo-expand)  
@@ -90,5 +92,3 @@
   Require hook for automatic V8 compile cache persistence
 - [jynew/jynew](https://github.com/jynew/jynew)  
   金庸群侠传3D重制版
-- [project-serum/anchor](https://github.com/project-serum/anchor)  
-  ⚓ Solana Sealevel Framework
