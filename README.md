@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [xjh22222228/awesome-web-editor](https://github.com/xjh22222228/awesome-web-editor)  
+  🔨  Open source WEB editor summary
 - [dolthub/dolt](https://github.com/dolthub/dolt)  
   Dolt – It's Git for Data
 - [supabase/supabase](https://github.com/supabase/supabase)  
@@ -90,5 +92,3 @@
   🍼 Plugin driven WYSIWYG  markdown editor framework.
 - [zertosh/v8-compile-cache](https://github.com/zertosh/v8-compile-cache)  
   Require hook for automatic V8 compile cache persistence
-- [jynew/jynew](https://github.com/jynew/jynew)  
-  金庸群侠传3D重制版
