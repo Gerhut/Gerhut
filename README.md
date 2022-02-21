@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [LeaVerou/color.js](https://github.com/LeaVerou/color.js)  
+  Color space conversion & manipulation lib. Work in progress.
 - [xjh22222228/awesome-web-editor](https://github.com/xjh22222228/awesome-web-editor)  
   🔨  Open source WEB editor summary
 - [dolthub/dolt](https://github.com/dolthub/dolt)  
@@ -90,5 +92,3 @@
   :tv: OpenReplay is developer-friendly, open-source session replay.
 - [Saul-Mirone/milkdown](https://github.com/Saul-Mirone/milkdown)  
   🍼 Plugin driven WYSIWYG  markdown editor framework.
-- [zertosh/v8-compile-cache](https://github.com/zertosh/v8-compile-cache)  
-  Require hook for automatic V8 compile cache persistence
