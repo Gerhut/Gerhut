@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [stewdio/q.js](https://github.com/stewdio/q.js)  
+  Quantum computing in your browser.
 - [LeaVerou/color.js](https://github.com/LeaVerou/color.js)  
   Color space conversion & manipulation lib. Work in progress.
 - [xjh22222228/awesome-web-editor](https://github.com/xjh22222228/awesome-web-editor)  
@@ -90,5 +92,3 @@
   Interactively Visualizing Ownership and Borrowing for Rust
 - [openreplay/openreplay](https://github.com/openreplay/openreplay)  
   :tv: OpenReplay is developer-friendly, open-source session replay.
-- [Saul-Mirone/milkdown](https://github.com/Saul-Mirone/milkdown)  
-  🍼 Plugin driven WYSIWYG  markdown editor framework.
