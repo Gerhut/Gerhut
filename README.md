@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [giltayar/proposal-types-as-comments](https://github.com/giltayar/proposal-types-as-comments)  
+  ECMAScript proposal for type syntax that is erased - Stage 0
 - [stewdio/q.js](https://github.com/stewdio/q.js)  
   Quantum computing in your browser.
 - [LeaVerou/color.js](https://github.com/LeaVerou/color.js)  
@@ -90,5 +92,3 @@
   The Next.js Static Site Generator
 - [rustviz/rustviz](https://github.com/rustviz/rustviz)  
   Interactively Visualizing Ownership and Borrowing for Rust
-- [openreplay/openreplay](https://github.com/openreplay/openreplay)  
-  :tv: OpenReplay is developer-friendly, open-source session replay.
