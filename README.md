@@ -33,8 +33,8 @@
 
 ## Recently Starred Repos
 
-- [giltayar/proposal-types-as-comments](https://github.com/giltayar/proposal-types-as-comments)  
-  ECMAScript proposal for type syntax that is erased - Stage 0
+- [tc39/proposal-type-annotations](https://github.com/tc39/proposal-type-annotations)  
+  ECMAScript proposal for type syntax that is erased - Stage 1
 - [stewdio/q.js](https://github.com/stewdio/q.js)  
   Quantum computing in your browser.
 - [LeaVerou/color.js](https://github.com/LeaVerou/color.js)  
