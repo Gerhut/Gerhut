@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [mdn/content](https://github.com/mdn/content)  
+  The content behind MDN Web Docs
 - [tc39/proposal-type-annotations](https://github.com/tc39/proposal-type-annotations)  
   ECMAScript proposal for type syntax that is erased - Stage 1
 - [stewdio/q.js](https://github.com/stewdio/q.js)  
@@ -90,5 +92,3 @@
   A React tiling window manager
 - [shuding/nextra](https://github.com/shuding/nextra)  
   The Next.js Static Site Generator
-- [rustviz/rustviz](https://github.com/rustviz/rustviz)  
-  Interactively Visualizing Ownership and Borrowing for Rust
