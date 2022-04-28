@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [google/wireit](https://github.com/google/wireit)  
+  Wireit upgrades your npm scripts to make them smarter and more efficient.
 - [mdn/content](https://github.com/mdn/content)  
   The content behind MDN Web Docs
 - [tc39/proposal-type-annotations](https://github.com/tc39/proposal-type-annotations)  
@@ -90,5 +92,3 @@
   Chinese character stroke order animations and practice quizzes
 - [nomcopter/react-mosaic](https://github.com/nomcopter/react-mosaic)  
   A React tiling window manager
-- [shuding/nextra](https://github.com/shuding/nextra)  
-  The Next.js Static Site Generator
