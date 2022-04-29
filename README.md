@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [BandaiNamcoResearchInc/Bandai-Namco-Research-Motiondataset](https://github.com/BandaiNamcoResearchInc/Bandai-Namco-Research-Motiondataset)  
+  This repository provides motion datasets collected by Bandai Namco Research Inc
 - [google/wireit](https://github.com/google/wireit)  
   Wireit upgrades your npm scripts to make them smarter and more efficient.
 - [mdn/content](https://github.com/mdn/content)  
@@ -90,5 +92,3 @@
    💻😍Tools, processes and resources you need to create an awesome API with Django REST Framework
 - [chanind/hanzi-writer](https://github.com/chanind/hanzi-writer)  
   Chinese character stroke order animations and practice quizzes
-- [nomcopter/react-mosaic](https://github.com/nomcopter/react-mosaic)  
-  A React tiling window manager
