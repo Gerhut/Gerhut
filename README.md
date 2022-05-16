@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [direnv/direnv](https://github.com/direnv/direnv)  
+  unclutter your .profile
 - [BandaiNamcoResearchInc/Bandai-Namco-Research-Motiondataset](https://github.com/BandaiNamcoResearchInc/Bandai-Namco-Research-Motiondataset)  
   This repository provides motion datasets collected by Bandai Namco Research Inc
 - [google/wireit](https://github.com/google/wireit)  
@@ -90,5 +92,3 @@
   Progressive web 3D game engine.
 - [nioperas06/awesome-django-rest-framework](https://github.com/nioperas06/awesome-django-rest-framework)  
    💻😍Tools, processes and resources you need to create an awesome API with Django REST Framework
-- [chanind/hanzi-writer](https://github.com/chanind/hanzi-writer)  
-  Chinese character stroke order animations and practice quizzes
