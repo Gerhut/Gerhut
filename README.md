@@ -64,7 +64,7 @@
 - [DIGITALCRIMINAL/OnlyFans](https://github.com/DIGITALCRIMINAL/OnlyFans)  
   Scrape all the media from an OnlyFans account - Updated regularly
 - [microsoft/com-rs](https://github.com/microsoft/com-rs)  
-  A Rust Crate for Creating and Consuming COM APIs
+  **DEPRECATED** in favor of github.com/microsoft/windows-rs
 - [ai/easings.net](https://github.com/ai/easings.net)  
   Easing Functions Cheat Sheet
 - [huacat1017/huacat.office-theme](https://github.com/huacat1017/huacat.office-theme)  
