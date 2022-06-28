@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [react-static/react-static](https://github.com/react-static/react-static)  
+  ⚛️ 🚀 A progressive static site generator for React.
 - [direnv/direnv](https://github.com/direnv/direnv)  
   unclutter your .profile
 - [BandaiNamcoResearchInc/Bandai-Namco-Research-Motiondataset](https://github.com/BandaiNamcoResearchInc/Bandai-Namco-Research-Motiondataset)  
@@ -90,5 +92,3 @@
   Builds multi-config webpack projects in parallel
 - [hiloteam/Sein.js](https://github.com/hiloteam/Sein.js)  
   Progressive web 3D game engine.
-- [nioperas06/awesome-django-rest-framework](https://github.com/nioperas06/awesome-django-rest-framework)  
-   💻😍Tools, processes and resources you need to create an awesome API with Django REST Framework
