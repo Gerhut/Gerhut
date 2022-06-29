@@ -48,7 +48,7 @@
 - [stewdio/q.js](https://github.com/stewdio/q.js)  
   Quantum computing in your browser.
 - [LeaVerou/color.js](https://github.com/LeaVerou/color.js)  
-  Color space conversion & manipulation lib. Work in progress.
+  Color space conversion & manipulation lib by the editors of the CSS Color specifications
 - [xjh22222228/awesome-web-editor](https://github.com/xjh22222228/awesome-web-editor)  
   🔨  Open source WEB editor summary
 - [dolthub/dolt](https://github.com/dolthub/dolt)  
