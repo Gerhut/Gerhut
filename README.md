@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [Byron/gitoxide](https://github.com/Byron/gitoxide)  
+  An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [react-static/react-static](https://github.com/react-static/react-static)  
   ⚛️ 🚀 A progressive static site generator for React.
 - [direnv/direnv](https://github.com/direnv/direnv)  
@@ -90,5 +92,3 @@
   Share data beyond the browser boundaries. Enable users to transfer data to external apps, and open your webapp to receive external data.
 - [trivago/parallel-webpack](https://github.com/trivago/parallel-webpack)  
   Builds multi-config webpack projects in parallel
-- [hiloteam/Sein.js](https://github.com/hiloteam/Sein.js)  
-  Progressive web 3D game engine.
