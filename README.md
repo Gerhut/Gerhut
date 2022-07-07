@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [Jarred-Sumner/bun](https://github.com/Jarred-Sumner/bun)  
+  Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
 - [Byron/gitoxide](https://github.com/Byron/gitoxide)  
   An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [react-static/react-static](https://github.com/react-static/react-static)  
@@ -90,5 +92,3 @@
   Ergonomic and modular web framework built with Tokio, Tower, and Hyper
 - [google/transmat](https://github.com/google/transmat)  
   Share data beyond the browser boundaries. Enable users to transfer data to external apps, and open your webapp to receive external data.
-- [trivago/parallel-webpack](https://github.com/trivago/parallel-webpack)  
-  Builds multi-config webpack projects in parallel
