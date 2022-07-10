@@ -33,7 +33,7 @@
 
 ## Recently Starred Repos
 
-- [Jarred-Sumner/bun](https://github.com/Jarred-Sumner/bun)  
+- [oven-sh/bun](https://github.com/oven-sh/bun)  
   Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
 - [Byron/gitoxide](https://github.com/Byron/gitoxide)  
   An idiomatic, lean, fast & safe pure Rust implementation of Git
