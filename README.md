@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [payloadcms/payload](https://github.com/payloadcms/payload)  
+  Free and Open-source Headless CMS and Application Framework built with TypeScript, Node.js, React and MongoDB
 - [WeNeedHome/SummaryOfLoanSuspension](https://github.com/WeNeedHome/SummaryOfLoanSuspension)  
   全国各省市停贷通知汇总
 - [oven-sh/bun](https://github.com/oven-sh/bun)  
@@ -90,5 +92,3 @@
   文言之柯裡化法
 - [b-zurg/react-collapse-pane](https://github.com/b-zurg/react-collapse-pane)  
   The splittable, draggable, collapsible panel layout library 🎉
-- [tokio-rs/axum](https://github.com/tokio-rs/axum)  
-  Ergonomic and modular web framework built with Tokio, Tower, and Hyper
