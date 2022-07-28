@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [alist-org/alist](https://github.com/alist-org/alist)  
+  🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。
 - [k0rnh0li0/onlyfans-dl](https://github.com/k0rnh0li0/onlyfans-dl)  
   OnlyFans content downloader
 - [payloadcms/payload](https://github.com/payloadcms/payload)  
@@ -90,5 +92,3 @@
   nginx ntlm module implemented by lua
 - [yyx990803/shiki](https://github.com/yyx990803/shiki)  
   A beautiful Syntax Highlighter.
-- [akira-cn/currying-wy](https://github.com/akira-cn/currying-wy)  
-  文言之柯裡化法
