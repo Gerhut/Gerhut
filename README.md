@@ -68,7 +68,7 @@
 - [xjh22222228/awesome-web-editor](https://github.com/xjh22222228/awesome-web-editor)  
   🔨  Open source WEB editor summary
 - [dolthub/dolt](https://github.com/dolthub/dolt)  
-  Dolt – It's Git for Data
+  Dolt – Git for Data
 - [supabase/supabase](https://github.com/supabase/supabase)  
   The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [dtolnay/cargo-expand](https://github.com/dtolnay/cargo-expand)  
