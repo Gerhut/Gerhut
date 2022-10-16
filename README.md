@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [cube-js/cube.js](https://github.com/cube-js/cube.js)  
+  📊  Cube — Headless Business Intelligence for Building Data Applications
 - [ixinzhi/xuanxue9](https://github.com/ixinzhi/xuanxue9)  
   玄学资料库（九）
 - [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk)  
@@ -91,5 +93,3 @@
   Microsoft Office(like) theme for VScode
 - [sablejs/sablejs](https://github.com/sablejs/sablejs)  
   🏖️ The safer and faster ECMA5.1 interpreter written by JavaScript
-- [ensdomains/subdomain-registrar](https://github.com/ensdomains/subdomain-registrar)  
-  A registrar that sells subdomains to users on behalf of their owners
