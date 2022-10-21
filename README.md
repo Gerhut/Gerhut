@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [guoger/k800s](https://github.com/guoger/k800s)  
+  There are many projects trying to make Kubernetes easier-to-use, friendlier, simpler, which is BORING!!! We, k800s team, are determined to make k8s more complex, complicated and comprehensive, as it ought to be.
 - [marcj/TypeRunner](https://github.com/marcj/TypeRunner)  
   High-performance TypeScript compiler
 - [cube-js/cube.js](https://github.com/cube-js/cube.js)  
@@ -91,5 +93,3 @@
   **DEPRECATED** in favor of github.com/microsoft/windows-rs
 - [ai/easings.net](https://github.com/ai/easings.net)  
   Easing Functions Cheat Sheet
-- [huacat1017/huacat.office-theme](https://github.com/huacat1017/huacat.office-theme)  
-  Microsoft Office(like) theme for VScode
