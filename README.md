@@ -33,6 +33,8 @@
 
 ## Recently Starred Repos
 
+- [mikefarah/yq](https://github.com/mikefarah/yq)  
+  yq is a portable command-line YAML, JSON, XML, CSV and properties processor
 - [guoger/k800s](https://github.com/guoger/k800s)  
   There are many projects trying to make Kubernetes easier-to-use, friendlier, simpler, which is BORING!!! We, k800s team, are determined to make k8s more complex, complicated and comprehensive, as it ought to be.
 - [marcj/TypeRunner](https://github.com/marcj/TypeRunner)  
@@ -91,5 +93,3 @@
   Scrape all the media from an OnlyFans account - Updated regularly
 - [microsoft/com-rs](https://github.com/microsoft/com-rs)  
   **DEPRECATED** in favor of github.com/microsoft/windows-rs
-- [ai/easings.net](https://github.com/ai/easings.net)  
-  Easing Functions Cheat Sheet
