@@ -28,7 +28,7 @@
      218.21 ┤                                                                                                 ││ 
      214.25 ┤                                                                                                 ╰╯ 
 
-> Last Refreshed: 2022-11-04 16:00:01
+> Last Refreshed: 2022-11-04
 ```
 
 ## Recently Starred Repos
