@@ -28,7 +28,7 @@ jobs:
 
   update:
     needs:
-    - msft-stock
+    # - msft-stock
     - github-stars
     runs-on: ubuntu-latest
     steps:
