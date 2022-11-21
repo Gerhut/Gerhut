@@ -9,6 +9,7 @@
 
 ## Recently Starred Repos
 
+- [liangfeidotme/the-history-of-china](https://github.com/liangfeidotme/the-history-of-china)  
 - [mikefarah/yq](https://github.com/mikefarah/yq)  
   yq is a portable command-line YAML, JSON, XML, CSV and properties processor
 - [guoger/k800s](https://github.com/guoger/k800s)  
@@ -67,5 +68,3 @@
   FFmpeg for browser and node, powered by WebAssembly
 - [DIGITALCRIMINAL/OnlyFans](https://github.com/DIGITALCRIMINAL/OnlyFans)  
   Scrape all the media from an OnlyFans account - Updated regularly
-- [microsoft/com-rs](https://github.com/microsoft/com-rs)  
-  **DEPRECATED** in favor of github.com/microsoft/windows-rs
