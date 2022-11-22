@@ -13,7 +13,6 @@
   The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 - [ftdebugger/whole-npm](https://github.com/ftdebugger/whole-npm)  
   Install all npm packages in one command
-- [liangfeidotme/the-history-of-china](https://github.com/liangfeidotme/the-history-of-china)  
 - [mikefarah/yq](https://github.com/mikefarah/yq)  
   yq is a portable command-line YAML, JSON, XML, CSV and properties processor
 - [guoger/k800s](https://github.com/guoger/k800s)  
@@ -68,3 +67,5 @@
   Minimal CSS Framework for semantic HTML
 - [jaredLunde/react-hook](https://github.com/jaredLunde/react-hook)  
   ↩ Strongly typed, concurrent mode-safe React hooks
+- [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm)  
+  FFmpeg for browser and node, powered by WebAssembly
