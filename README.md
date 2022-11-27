@@ -9,6 +9,8 @@
 
 ## Recently Starred Repos
 
+- [m1guelpf/auto-commit](https://github.com/m1guelpf/auto-commit)  
+  A CLI tool that automatically writes commit messages for you.
 - [directus/directus](https://github.com/directus/directus)  
   The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 - [ftdebugger/whole-npm](https://github.com/ftdebugger/whole-npm)  
@@ -67,5 +69,3 @@
   Minimal CSS Framework for semantic HTML
 - [jaredLunde/react-hook](https://github.com/jaredLunde/react-hook)  
   ↩ Strongly typed, concurrent mode-safe React hooks
-- [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm)  
-  FFmpeg for browser and node, powered by WebAssembly
