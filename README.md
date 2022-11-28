@@ -9,6 +9,8 @@
 
 ## Recently Starred Repos
 
+- [trpc/trpc](https://github.com/trpc/trpc)  
+  🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy. 
 - [m1guelpf/auto-commit](https://github.com/m1guelpf/auto-commit)  
   A CLI tool that automatically writes commit messages for you.
 - [directus/directus](https://github.com/directus/directus)  
@@ -67,5 +69,3 @@
   Subcommand to show result of macro expansion
 - [picocss/pico](https://github.com/picocss/pico)  
   Minimal CSS Framework for semantic HTML
-- [jaredLunde/react-hook](https://github.com/jaredLunde/react-hook)  
-  ↩ Strongly typed, concurrent mode-safe React hooks
