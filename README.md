@@ -50,7 +50,7 @@
 - [BandaiNamcoResearchInc/Bandai-Namco-Research-Motiondataset](https://github.com/BandaiNamcoResearchInc/Bandai-Namco-Research-Motiondataset)  
   This repository provides motion datasets collected by Bandai Namco Research Inc
 - [google/wireit](https://github.com/google/wireit)  
-  Wireit upgrades your npm scripts to make them smarter and more efficient.
+  Wireit upgrades your npm/pnpm/yarn scripts to make them smarter and more efficient.
 - [mdn/content](https://github.com/mdn/content)  
   The content behind MDN Web Docs
 - [tc39/proposal-type-annotations](https://github.com/tc39/proposal-type-annotations)  
