@@ -6,19 +6,19 @@ on:
   - cron: '0 * * * *'
 
 jobs:
-  # msft-stock:
-  #   runs-on: ubuntu-latest
-  #   steps:
-  #   - uses: actions/checkout@v2
-  #   - id: msft-stock
-  #     uses: ./.github/actions/msft-stock
-  #   outputs:
-  #     chart: ${{ steps.msft-stock.outputs.chart }}
-  #
+  msft-stock:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - id: msft-stock
+      uses: ./.github/actions/msft-stock
+    outputs:
+      chart: ${{ steps.msft-stock.outputs.chart }}
+
   github-stars:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v3
     - id: github-stars
       uses: ./.github/actions/github-stars
       env:
