@@ -4,7 +4,7 @@ const fetch = require('node-fetch')
 
 async function main (alphaVantageAPIKey) {
   const url = new URL('/query', 'https://www.alphavantage.co/')
-  url.searchParams.set('function', 'TIME_SERIES_DAILY_ADJUSTED')
+  url.searchParams.set('function', 'TIME_SERIES_DAILY')
   url.searchParams.set('symbol', 'MSFT')
   url.searchParams.set('apikey', alphaVantageAPIKey)
 
