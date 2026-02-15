@@ -11,7 +11,10 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - id: msft-stock
-      uses: ./.github/actions/msft-stock
+      uses: Wandalen/wretry.action@v1.3.0
+      with:
+        action: ./.github/actions/msft-stock
+        attempt_limit: 3
     outputs:
       chart: ${{ steps.msft-stock.outputs.chart }}
 
